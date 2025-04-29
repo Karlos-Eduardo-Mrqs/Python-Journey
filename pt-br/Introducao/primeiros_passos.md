@@ -32,19 +32,20 @@ As variáveis são usadas para armazenar informações que poderão ser manipula
 # Tipos de Dados
 Em Python, os tipos de dados determinam o tipo de valor que uma variável pode armazenar. Python é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar o tipo da variável explicitamente.
 
-# 🔹 Tabela Dos Tipos de Dados em Python
+# 🔹 Python Data Types Table
 
-| Tipo de Dado | Descrição | Exemplo de Código | Exemplo na Vida Real |
-|:-------------|:----------|:------------------|:---------------------|
-| **int** | Números inteiros (sem casas decimais). | `idade = 30` | Idade de uma pessoa: `30 anos` |
-| **float** | Números com casas decimais. | `altura = 1.75` | Altura de uma pessoa: `1,75 metros` |
-| **str** | Sequências de caracteres (texto). | `nome = "Carlos"` | Nome de um aluno: `"Carlos"` |
-| **bool** | Valores booleanos (`True` ou `False`). | `is_student = True` | Se a pessoa está matriculada: `True` |
-| **list** | Coleções ordenadas e mutáveis. | `frutas = ["maçã", "banana", "laranja"]` | Lista de compras no mercado. |
-| **tuple** | Coleções ordenadas e imutáveis. | `coordenadas = (10, 20)` | Localização GPS: `(latitude, longitude)` |
-| **dict** | Coleções de pares chave-valor. | `aluno = {"nome": "Carlos", "idade": 20}` | Ficha de cadastro de um aluno. |
+| Data Type | Description | Code Example | Real Life Example |
+|:-------------|:----------|:------------------|:--------------------|
+| **int** | Integers (no decimal places). | `age = 30` | Age of a person: `30 years old` |
+| **float** | Numbers with decimal places. | `height = 1.75` | Height of a person: `1.75 meters` |
+| **str** | Strings (text). | `name = "Carlos"` | Name of a student: `"Carlos"` |
+| **bool** | Boolean values ​​(`True` or `False`). | `is_student = True` | Whether the person is enrolled: `True` |
+| **list** | Ordered and mutable collections. | `fruits = ["apple", "banana", "orange"]` | Grocery shopping list. |
+| **tuple** | Ordered and immutable collections. | `coordinates = (10, 20)` | GPS location: `(latitude, longitude)` |
+| **dict** | Collections of key-value pairs. | `student = {"name": "Carlos", "age": 20}` | Student registration form. |
 
 # 📚 Explicação Rápida
+
 - **Inteiros (int):** São usados para contar, identificar ou enumerar.
 
 - **Floats (float):** Representam valores fracionários, como alturas e medidas.
@@ -78,7 +79,7 @@ Python possui funções simples para entrada e saída de dados:
 
 ---
 
-# 🔹 Saída de Dados: `print()`
+## 🔹 Saída de Dados: `print()`
 
 O comando `print()` é usado para exibir informações no console.
 
@@ -97,7 +98,7 @@ Olá, mundo!
 A soma de 2 + 3 é : 5 
 ```
 
-# 🔹 Entrada de Dados: `input()`
+## 🔹 Entrada de Dados: `input()`
 O comando `input()` permite receber dados do usuário.
 
 ### Exemplo:
