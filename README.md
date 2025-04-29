@@ -1,5 +1,4 @@
-# 🐍 Python Journey
-
+# 🐍 Python Journey 
 > **"Sua jornada do básico ao avançado em Python."**
 
 ---
