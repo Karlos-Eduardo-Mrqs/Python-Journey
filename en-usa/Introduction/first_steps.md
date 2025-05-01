@@ -46,7 +46,7 @@ In Python, data types determine the type of value a variable can store. Python i
 | **dict** | Collections of key-value pairs. | `student = {"name": "Carlos", "age": 20}` | Student registration form. |
 
 # 📚 Quick Explanation
-
+    
 - **Integers (int):** Used to count, identify or enumerate.
 
 - **Floats (float):** Represent fractional values, such as heights and measurements.
