@@ -149,3 +149,24 @@ print(a | b)  # 7 → 0111 (0101 | 0011)
 | `**=` | Faz a exponenciação e atribui |
 
 ---
+
+## ⚖️ Precedência dos Operadores
+
+A ordem que o Python usa para resolver expressões:
+
+1. `()` Parênteses
+2. `**` Exponenciação
+3. `+`, `-` (unário)
+4. `*`, `/`, `//`, `%`
+5. `+`, `-` (binário)
+6. `<<`, `>>`
+7. `&`
+8. `^`
+9. `|`
+10. `==`, `!=`, `>`, `<`, `>=`, `<=`, `is`, `in`
+11. `not`
+12. `and`
+13. `or`
+14. `=`, `+=`, `-=`, etc.
+
+---

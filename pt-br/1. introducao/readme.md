@@ -1,4 +1,3 @@
-
 # 📖 Introdução ao Python
 Dê seus primeiros passos na linguagem mais popular do mundo!
 
