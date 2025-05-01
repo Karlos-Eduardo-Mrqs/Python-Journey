@@ -1,17 +1,18 @@
 # 📘 Fundamentos do Python  
-> Domine as estruturas essenciais que todo bom programador precisa saber!
+Domine as estruturas essenciais que todo bom programador precisa saber!
 
 # 🔹 Sobre esta seção  
 
-> Agora que você já deu os primeiros passos, é hora de aprofundar nos **fundamentos da linguagem Python**.
+Agora que você já deu os primeiros passos, é hora de aprofundar nos **fundamentos da linguagem Python**.
 
-> Neste módulo, você vai aprender como o Python toma decisões, repete ações e organiza blocos de código em funções reutilizáveis. 
+Neste módulo, você vai aprender como o Python toma decisões, repete ações e organiza blocos de código em funções reutilizáveis.
 
-> Esses conceitos são **a espinha dorsal** de qualquer aplicação Python, dos scripts mais simples aos sistemas mais robustos.
+Esses conceitos são **a espinha dorsal** de qualquer aplicação Python, dos scripts mais simples aos sistemas mais robustos.
 
 # 📚 O que você vai aprender
 
 ### 🔢 Operadores
+
 - Aritméticos
 - Relacionais
 - Lógicos
@@ -21,17 +22,20 @@
 - Bitwise
 
 ### ⚙️ Estruturas Condicionais
+
 - `if`, `elif`, `else`
 - Condicionais aninhadas
 - Operadores ternários
 
 ### 🔁 Estruturas de Repetição
+
 - `for`
 - `while`
 - `break` e `continue`
 - Funções de iteração: `range()`, `enumerate()`, `zip()` e etc ...
 
 ### 🧰 Funções
+
 - Declaração com `def`
 - Parâmetros e argumentos
 - Argumentos padrão e nomeados
