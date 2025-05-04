@@ -1,6 +1,6 @@
 # 🔢 Operadores em Python
 
-Operadores são símbolos usados para realizar operações em variáveis e valores. Python possui vários tipos de operadores.
+Operadores são símbolos usados para realizar operações em variáveis e valores. Eles são essenciais para manipular dados e executar cálculos dentro de um programa. Dependendo do tipo de operação que você deseja realizar, você usará diferentes tipos de operadores. Em Python, os operadores podem ser classificados nas seguintes categorias:
 
 ## 🔹 Aritméticos ➕➖✖️➗
 
@@ -18,7 +18,7 @@ Operadores são símbolos usados para realizar operações em variáveis e valor
 | `%` | Módulo (resto) | `10 % 3` → `1` |
 | `**` | Potência | `2 ** 3` → `8` |
 
-## 🔹 Relacionais (Comparação) 🔎
+## 🔹 Relacionais 🔎
 
 > **Esses operadores comparam dois valores e retornam um resultado booleano (``True`` ou ``False``).** 
 
@@ -79,9 +79,7 @@ Operadores são símbolos usados para realizar operações em variáveis e valor
 | `is`     | Retorna `True` se as variáveis referenciam o mesmo objeto na memória | `a is b` | `True` ou `False` |
 | `is not` | Retorna `True` se os objetos forem **diferentes** | `a is not b` | `True` ou `False` |
 
-> **💡 Dica: a == b compara os valores, enquanto a is b compara se são o mesmo objeto na memória.**
-
-
+**💡 Dica: a == b compara os valores, enquanto a is b compara se são o mesmo objeto na memória.**
 
 ### Exemplo 🆔
 
@@ -93,7 +91,7 @@ print(a is b)     # True → a e b são o mesmo objeto
 print(a is c)     # False → a e c têm o mesmo conteúdo, mas são objetos diferentes
 ```
 
-## 🔹 Operadores de Membros (Membresia) 🔎📦
+## 🔹 Operadores de Membros  🔎📦
 
 > Usados para testar se um valor existe dentro de uma sequência, como listas, strings ou dicionários.
 
@@ -118,11 +116,13 @@ print("uva" in frutas) # False
 | 🔢 Operador | 📛 Nome | 💬 Descrição |
 |-------------|---------|---------------|
 | `&` | AND | Retorna 1 se **ambos** os bits forem 1 |
-| `|` | OR | Retorna 1 se **algum** bit for 1 |
+| Uma barra  | OR | Retorna 1 se **algum** bit for 1 |
 | `^` | XOR | Retorna 1 se os bits forem **diferentes** |
 | `~` | NOT | Inverte todos os bits |
 | `<<` | Shift à esquerda | Desloca bits para a esquerda |
 | `>>` | Shift à direita | Desloca bits para a direita |
+
+**💡 Lembre-se: números são representados em binário internamente. Por exemplo, 5 em binário é 0101.**
 
 ### Exemplo 🧠⚙️
 
@@ -137,16 +137,16 @@ print(a | b)  # 7 → 0111 (0101 | 0011)
 
 > **Servem para armazenar valores em variáveis.** Além do clássico ``=``, existem operadores que realizam uma operação e já atualizam o valor da variável, como ``+=``, ``-=``, etc. Isso deixa o código mais limpo e direto.
 
-| 🔢 Operador | 🟰 Equivalente |
-|----------|-------------|
-| `=` | Atribuição simples |
-| `+=` | Soma e atribui |
-| `-=` | Subtrai e atribui |
-| `*=` | Multiplica e atribui |
-| `/=` | Divide e atribui |
-| `//=` | Faz divisão inteira e atribui|
-| `%=` | Faz o módulo (resto) e atribui |
-| `**=` | Faz a exponenciação e atribui |
+| 🔢 Operador | 🟰 Equivalente            | 💡 Exemplo               |
+| ----------- | ------------------------- | ------------------------ |
+| `=`         | Atribuição simples        | `x = 10` → `x` vale `10` |
+| `+=`        | Soma e atribui            | `x += 5` → `x = x + 5`   |
+| `-=`        | Subtrai e atribui         | `x -= 3` → `x = x - 3`   |
+| `*=`        | Multiplica e atribui      | `x *= 2` → `x = x * 2`   |
+| `/=`        | Divide e atribui          | `x /= 4` → `x = x / 4`   |
+| `//=`       | Divisão inteira e atribui | `x //= 3` → `x = x // 3` |
+| `%=`        | Módulo e atribui          | `x %= 2` → `x = x % 2`   |
+| `**=`       | Exponenciação e atribui   | `x **= 3` → `x = x ** 3` |
 
 ---
 
@@ -188,4 +188,4 @@ lista de compras.
 
 **💡 Próximos Passos:** Depois de dominar os operadores, explore como utilizá-los em estruturas condicionais e estruturas de repetição. Isso vai permitir que você escreva programas mais dinâmicos e interessantes!
 
-> Agora, mãos à obra! Continue explorando a linguagem Python e construindo seus projetos! ✨🐍
+> Dominar os operadores te dá controle total sobre como seu programa toma decisões e transforma dados. Essa é a base para criar sistemas inteligentes e eficientes!
