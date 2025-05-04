@@ -97,7 +97,7 @@ match variavel:
         # bloco padrão (equivalente ao "default")
 ```
 
-> O caractere _ (underscore) representa o caso "padrão", que será executado se nenhum dos anteriores for satisfeito.
+**O caractere _ (underscore) representa o caso "padrão", que será executado se nenhum dos anteriores for satisfeito.**
 
 > 📌 Exemplo de uso:
 
