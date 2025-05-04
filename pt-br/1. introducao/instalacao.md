@@ -68,3 +68,11 @@ Clique com o botão direito no arquivo e selecione "Run 'ola_mundo'".
 Ou clique no botão verde ▶️ ao lado da linha print("Olá, Mundo!").
 
 ---
+
+# ✅ Conclusão
+
+Agora que você instalou o Python, configurou seu ambiente e criou seu primeiro script com sucesso, você está pronto para iniciar sua jornada na programação! 🚀
+
+Dominar a instalação e o funcionamento básico do ambiente é o primeiro passo para criar projetos incríveis com Python — desde scripts simples até automações, análise de dados, inteligência artificial e muito mais.
+
+> Continue explorando, praticando e se divertindo com o processo. A programação é uma habilidade poderosa e, com dedicação, você irá muito longe !

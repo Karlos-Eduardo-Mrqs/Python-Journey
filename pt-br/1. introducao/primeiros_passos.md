@@ -72,7 +72,8 @@ coordenadas = (34.5, -120.7)          # tuple
 perfil = {"nome": "Ana", "idade": 25} # dict
 ```
 
-# Comandos de Entrada e Saída
+## Comandos de Entrada e Saída
+
 Agora que você já entende variáveis e tipos de dados, vamos aprender a interagir com o usuário!
 
 Python possui funções simples para entrada e saída de dados:
@@ -83,7 +84,6 @@ Python possui funções simples para entrada e saída de dados:
 
 O comando `print()` é usado para exibir informações no console.
 
-### Exemplos:
 > Começo:
 
 ```python
@@ -99,9 +99,10 @@ A soma de 2 + 3 é : 5
 ```
 
 ## 🔹 Entrada de Dados: `input()`
+
 O comando `input()` permite receber dados do usuário.
 
-### Exemplo:
+> Exemplo:
 
 ```python
 nome = input("Digite seu nome: ")
@@ -115,6 +116,7 @@ O programa irá pausar e esperar o usuário digitar algo.
 Tudo o que for digitado será armazenado como string.
 
 ## ⚡ Atenção!
+
 Por padrão, o que for lido pelo input() será do tipo str (texto), mesmo que o usuário digite números! 
 
 **Para converter o tipo, usamos o casting:**
@@ -128,3 +130,17 @@ altura = float(input("Digite sua altura: "))
 
 - **int() :** converte para inteiro.
 - **float() :** converte para ponto flutuante.
+
+---
+
+# 🚀 Conclusão
+
+Esses primeiros passos são fundamentais para sua jornada com a linguagem Python. A partir daqui, você já consegue construir pequenos scripts que recebem dados do usuário, processam informações e exibem resultados na tela.
+
+> Continue praticando! Experimente:
+
+- Criar um programa que calcula a média de duas notas;
+- Fazer um cadastro simples com nome, idade e cidade;
+- Desenvolva um dicionário que possuam nome, idade, situação(estudando: true), e entre outros ; 
+
+> Cada pequeno exercício vai te deixar mais confiante e preparado para os próximos módulos — como estruturas condicionais, repetições, funções e muito mais! 💡🐍
