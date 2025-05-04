@@ -114,3 +114,50 @@ match cor:
     case _:
         print("Cor não reconhecida")
 ```
+
+---
+
+# 🚀 Conclusão
+
+As estruturas condicionais em Python são ferramentas poderosas que permitem ao seu código tomar decisões com base em condições dinâmicas.
+
+Elas são essenciais para controlar o fluxo do programa, tornando-o flexível e adaptável às diferentes entradas e situações. Ao entender como usar o if, elif, else, as condicionais aninhadas, o operador ternário e o match case, você terá um conjunto robusto para lidar com qualquer tipo de situação condicional.
+
+## 📝 Exercícios de Condicionais
+
+1. **Verificar se o número é positivo, negativo ou zero**
+Implemente um programa que leia um número e imprima se ele é positivo, negativo ou zero.
+
+2. **Classificação de idades**
+Crie um programa que leia a idade de uma pessoa e classifique-a como:
+
+- Criança (0 a 12 anos)
+- Adolescente (13 a 17 anos)
+- Adulto (18 a 64 anos)
+- Idoso (65 anos ou mais)
+
+3. **Verificação de notas**
+
+Faça um programa que leia uma nota de 0 a 10 e informe se o aluno foi aprovado, reprovado ou se está de recuperação. O critério é:
+
+- Aprovado: nota >= 7
+- Recuperação: 5 <= nota < 7
+- Reprovado: nota < 5
+
+4. **Calculadora simples**
+
+Crie um programa que leia dois números e um operador matemático (+, -, *, /). O programa deve executar a operação correspondente entre os dois números e mostrar o resultado.
+
+5. **Maior de três números**
+
+Crie um programa que leia três números e imprima o maior número entre eles, utilizando estruturas condicionais.
+
+## 🔧 Dicas para a prática:
+
+- **Validação de entradas de usuário:**
+Use condicionais para validar entradas de dados, como cálculos de descontos baseados em idade ou categoria de cliente.
+
+- **Múltiplos casos:**
+Utilize o match case para sistemas que envolvem múltiplos casos, tornando seu código mais organizado e legível.
+
+> Agora é hora de colocar o aprendizado em prática! ✨🐍 Continue a explorar, resolver desafios e aprimorar suas habilidades em Python !
