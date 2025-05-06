@@ -4,13 +4,16 @@
 
 ## Linguagens Dísponíveis 🌐
 
+- **[Versão Brasileira *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
 
+- **[Versão Americana](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
 
 ---
 
 ## 📖 Sobre o Projeto
 
 O **Python Journey** é um guia completo pensado para quem deseja aprender Python de forma prática, organizada e moderna.  
+
 Aqui você encontrará desde os primeiros passos na linguagem até conceitos intermediários e projetos simples para consolidar seu aprendizado.
 
 **Ideal para:**
@@ -71,8 +74,6 @@ git clone https://github.com/seu-usuario/python-journey.git
 - Mini projetos práticos para consolidar o conhecimento
 - Atualizado com boas práticas de **2025**
 
----
-
 ## 📢 Contribuindo
 
 Contribuições são muito bem-vindas!  
@@ -90,7 +91,5 @@ Se quiser melhorar exemplos, corrigir informações ou sugerir novos conteúdos:
 
 Distribuído sob a licença MIT.  
 Consulte `LICENSE` para mais informações.
-
----
 
 # 🎯 Bora começar sua jornada no Python!

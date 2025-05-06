@@ -2,6 +2,12 @@
 
 > **"Your journey from basic to advanced in Python."**
 
+## Linguagens Dísponíveis 🌐
+
+- **[Brasilian Version](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
+
+- **[American Version *Current*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
+
 ---
 
 ## 📖 About the Project
@@ -25,8 +31,6 @@ Here you will find everything from the first steps in the language to intermedia
 - Language Fundamentals
 
 *(Other models will be added in the future!)*
-
----
 
 ## 🛠️ Repository Structure
 
@@ -69,11 +73,10 @@ git clone https://github.com/your-username/python-journey.git
 - Practical mini projects to consolidate knowledge
 - Updated with best practices from **2025**
 
----
-
 ## 📢 Contributing
 
-Contributions are very welcome! If you want to improve examples, correct information or suggest new content:
+Contributions are very welcome! 
+If you want to improve examples, correct information or suggest new content:
 
 - Fork the project
 - Create a branch (`git checkout -b feature/FeatureName`)
