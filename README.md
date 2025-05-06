@@ -1,91 +1,90 @@
-# 🐍 Python Journey 
-> **"Sua jornada do básico ao avançado em Python."**
+# 🐍 Python Journey
+
+> **"Your journey from basic to advanced in Python."**
 
 ---
 
-## 📖 Sobre o Projeto
+## 📖 About the Project
 
-O **Python Journey** é um guia completo pensado para quem deseja aprender Python de forma prática, organizada e moderna.  
-Aqui você encontrará desde os primeiros passos na linguagem até conceitos intermediários e projetos simples para consolidar seu aprendizado.
+The **Python Journey** is a complete guide designed for those who want to learn Python in a practical, organized and modern way.
 
-**Ideal para:**
-- Iniciantes em programação
-- Estudantes de Ciência da Computação
-- Pessoas em transição de carreira
-- Quem busca fortalecer sua base em Python
+Here you will find everything from the first steps in the language to intermediate concepts and simple projects to consolidate your learning.
 
----
+**Ideal for:**
 
-## 📚 Conteúdo Abordado
-
-- Introdução ao Python
-- Fundamentos da Linguagem
-
-*(Outros tópicos serão adicionados futuramente!)*
+- Beginners in programming
+- Computer Science students
+- People in career transition
+- Those looking to strengthen their Python foundation
 
 ---
 
-## 🛠️ Estrutura do Repositório
+## 📚 Models Covered
+
+- Introduction to Python
+- Language Fundamentals
+
+*(Other models will be added in the future!)*
+
+---
+
+## 🛠️ Repository Structure
 
 ```bash
-🔹 01-introducao/
-   🔹 o-que-e-python.md
-   🔹 instalacao-e-configuracao.md
-   🔹 primeiros-passos.md
+🔹 01-introduction/
+   🔹 what-is-python.md
+   🔹 installation-and-configuration.md
+   🔹 first-steps.md
 
-🔹 02-fundamentos/
-   🔹 variaveis.md
-   🔹 tipos-de-dados.md
-   🔹 operadores.md
-   🔹 controle-de-fluxo.md
-
+🔹 02-fundamentals/
+   🔹 operators.md
+   🔹 conditionals.md
+   🔹 loopings.md
+   🔹 functions.md
 🔹 README.md
 ```
 
-*(Outros tópicos serão adicionados futuramente!)*
+*(Other topics will be added in the future!)*
 
 ---
 
-## 🚀 Como Usar
+## 🚀 How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/python-journey.git
+git clone https://github.com/your-username/python-journey.git
 ```
 
-2. Explore as pastas em ordem para seguir o fluxo de aprendizado.
-3. Pratique os exemplos e tente criar suas próprias variações!
+2. Explore the folders in order to follow the learning flow.
+
+3. Practice the examples and try to create your own variations!
 
 ---
 
-## ✨ Diferenciais
+## ✨ Differentiators
 
-- Estrutura de aprendizado progressiva
-- Explicações diretas e exemplos de fácil entendimento
-- Mini projetos práticos para consolidar o conhecimento
-- Atualizado com boas práticas de **2025**
-
----
-
-## 📢 Contribuindo
-
-Contribuições são muito bem-vindas!  
-Se quiser melhorar exemplos, corrigir informações ou sugerir novos conteúdos:
-
-- Faça um fork do projeto
-- Crie uma branch (`git checkout -b feature/NomeDaFeature`)
-- Commit suas alterações (`git commit -m 'feat: sua mensagem'`)
-- Faça um push (`git push origin feature/NomeDaFeature`)
-- Abra um Pull Request
+- Progressive learning structure
+- Straightforward explanations and easy-to-understand examples
+- Practical mini projects to consolidate knowledge
+- Updated with best practices from **2025**
 
 ---
 
-## 📜 Licença
+## 📢 Contributing
 
-Distribuído sob a licença MIT.  
-Consulte `LICENSE` para mais informações.
+Contributions are very welcome! If you want to improve examples, correct information or suggest new content:
+
+- Fork the project
+- Create a branch (`git checkout -b feature/FeatureName`)
+- Commit your changes (`git commit -m 'feat: your message'`)
+- Push (`git push origin feature/FeatureName`)
+- Open a Pull Request
 
 ---
 
-# 🎯 Bora começar sua jornada no Python!
+## 📜 License
+
+Distributed under the MIT License.
+
+See `LICENSE` for more information.
