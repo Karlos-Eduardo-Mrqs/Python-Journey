@@ -1,7 +1,8 @@
-# 📘 Fundamentos do Python  
+# 📘 Fundamentos do Python
+
 Domine as estruturas essenciais que todo bom programador precisa saber!
 
-# 🔹 Sobre esta seção  
+## 🔹 Sobre esta seção  
 
 Agora que você já deu os primeiros passos, é hora de aprofundar nos **fundamentos da linguagem Python**.
 
@@ -9,7 +10,7 @@ Neste módulo, você vai aprender como o Python toma decisões, repete ações e
 
 Esses conceitos são **a espinha dorsal** de qualquer aplicação Python, dos scripts mais simples aos sistemas mais robustos.
 
-# 📚 O que você vai aprender
+## 📚 O que você vai aprender
 
 ### 🔢 Operadores
 
@@ -44,14 +45,15 @@ Esses conceitos são **a espinha dorsal** de qualquer aplicação Python, dos sc
 - Funções anônimas com `lambda`
 
 ---
-# ✍️ O que você será capaz de fazer após esta seção
+
+## ✍️ O que você será capaz de fazer após esta seção
 
 - Criar lógicas que tomam decisões com base em condições.
 - Automatizar repetições com diferentes tipos de laços.
 - Modularizar o código com funções simples e eficientes.
 - Usar operadores de forma lógica e precisa.
 
-# 🚀 Dicas para aproveitar melhor
+## 🚀 Dicas para aproveitar melhor
 
 - Tente resolver pequenos desafios ao final de cada tópico.
 - Use comentários para explicar o que está fazendo — isso reforça o aprendizado.
