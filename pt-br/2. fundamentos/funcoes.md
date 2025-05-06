@@ -129,7 +129,7 @@ def operacoes(a, b):
     return soma, produto  # retorna dois valores
 ```
 
-#### 💡 Dica útil
+### 💡 Dica útil
 
 Você pode misturar argumentos posicionais e nomeados, mas os posicionais devem vir antes dos nomeados.Isso garante clareza na leitura e evita erros na chamada da função. Exemplo:
 
@@ -178,7 +178,7 @@ soma = lambda x, y: x + y
 print(soma(3, 5))  # Saída: 8
 ```
 
-# Conclusão 🚀
+## Conclusão 🚀
 
 As funções em Python são blocos de código reutilizáveis que permitem organizar e modularizar seu programa, tornando-o mais legível, eficiente e fácil de manter. Elas são fundamentais para reduzir a repetição de código e facilitar a criação de programas escaláveis.
 

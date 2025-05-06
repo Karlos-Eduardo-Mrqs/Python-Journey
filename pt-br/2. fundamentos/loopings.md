@@ -182,3 +182,40 @@ numeros = [1, 2, 3, 4, 5]
 quadrados = [numero**2 for numero in numeros]
 print(quadrados)  # Saída: [1, 4, 9, 16, 25]
 ```
+
+---
+
+## 🚀 Conclusão
+
+As estruturas de repetição são fundamentais para automatizar tarefas e trabalhar com grandes volumes de dados em Python. Com elas, você pode repetir ações com base em condições (`while`) ou percorrer sequências de forma eficiente (`for`), além de controlar o fluxo de execução com `break`, `continue` e `pass`.
+
+Ao dominar também ferramentas como `range()`, `enumerate()`, `zip()` e compreensões de listas, você torna seu código mais limpo, elegante e poderoso.
+
+## 📝 Exercícios de Repetição
+
+1. **Contar de 1 a 10 usando `for`**
+Crie um programa que utilize um loop `for` para imprimir os números de 1 a 10.
+
+2. **Contador com `while`**
+Faça um programa que conte de 0 até 20, pulando de 2 em 2, utilizando `while`.
+
+3. **Soma de uma lista**
+Utilize um `for` para somar todos os elementos de uma lista de números inteiros.
+
+4. **Busca com `break`**
+Crie um programa que receba uma lista e pare de percorrê-la assim que encontrar o número 0.
+
+5. **Filtrar pares com `continue`**
+Percorra uma lista e imprima apenas os números pares, utilizando `continue` para ignorar os ímpares.
+
+6. **Compreensão de listas**
+Crie uma nova lista com os quadrados dos números de 1 a 10 usando list comprehension.
+
+## 🔧 Dicas para a prática:
+
+- **Use `for` quando souber quantas vezes precisa repetir algo.**
+- **Use `while` quando a repetição depender de uma condição.**
+- **Explore funções como `range()`, `enumerate()` e `zip()` para tornar seus loops mais poderosos.**
+- **Pratique a leitura e escrita de compreensões de lista — elas tornam seu código mais enxuto e expressivo.**
+
+> Agora é a sua vez! 🐍 Pratique com os exercícios, experimente variações dos exemplos e continue evoluindo no universo da programação com Python!
