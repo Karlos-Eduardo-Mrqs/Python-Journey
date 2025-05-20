@@ -129,3 +129,17 @@ height = float(input("Enter your height: "))
 
 - **int() :** converts to integer.
 - **float() :** converts to floating point.
+
+---
+
+# 🚀 Conclusion
+
+These first steps are essential for your journey with the Python language. From here, you can already build small scripts that receive user data, process information and display results on the screen.
+
+> Keep practicing! Try:
+
+- Create a program that calculates the average of two grades;
+- Make a simple registration with name, age and city;
+- Develop a dictionary that has name, age, situation (studying: true), and others;
+
+> Each small exercise will make you more confident and prepared for the next modules — such as conditional structures, repetitions, functions and much more! 💡🐍
