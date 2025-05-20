@@ -4,9 +4,11 @@
 
 ## Linguagens Dísponíveis 🌐
 
-- **[Versão Brasileira *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
+- **[BR Versão Brasileira *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
 
-- **[Versão Americana](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
+- **[US Versão Americana](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
+
+- **[ES Versão Espanhola](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-ES.md)**
 
 ---
 
