@@ -77,3 +77,11 @@ Haga clic derecho en el archivo y seleccione "Ejecutar 'hello_world'".
 O haga clic en el botón verde ▶️ junto a la línea de impresión ("¡Hola, mundo!").
 
 ---
+
+# ✅ Conclusión
+
+¡Ahora que has instalado Python correctamente, has configurado tu entorno y has creado tu primer script, estás listo para comenzar tu viaje de programación! 🚀
+
+Dominar la instalación y el funcionamiento básico del entorno es el primer paso para crear proyectos increíbles con Python, desde scripts simples hasta automatización, análisis de datos, inteligencia artificial y más.
+
+> Sigue explorando, practicando y divirtiéndote con el proceso. Programar es una habilidad poderosa y, con dedicación, ¡llegarás lejos!

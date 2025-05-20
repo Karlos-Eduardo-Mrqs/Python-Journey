@@ -135,3 +135,17 @@ altura = float(input("Ingrese su altura: "))
 
 - **int() :** convierte a entero.
 - **float() :** convierte a punto flotante.
+
+---
+
+# 🚀 Conclusión
+
+Estos primeros pasos son esenciales para tu viaje con el lenguaje Python. Desde aquí ya puedes crear pequeños scripts que reciben datos del usuario, procesan información y muestran resultados en la pantalla.
+
+> ¡Sigue practicando! Intentar:
+
+- Crear un programa que calcule el promedio de dos calificaciones;
+- Realizar un registro simple con nombre, edad y ciudad;
+- Elaborar un diccionario que tenga nombre, edad, situación (estudiando: verdadero), y otros;
+
+> ¡Cada pequeño ejercicio te hará sentir más seguro y preparado para los próximos módulos, como estructuras condicionales, repeticiones, funciones y mucho más! 💡🐍
