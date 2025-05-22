@@ -1,10 +1,12 @@
 # Primeiros Passos
+
 Agora com o ambiente configurado anteriormente, podemos iniciar os nossos primeiros passos com a programação em python !
 
-# Variáveis 
+## Variáveis
+
 As variáveis são usadas para armazenar informações que poderão ser manipuladas ao longo do programa. Em Python, criar uma variável é simples e não exige a definição do tipo de dado (como ocorre em outras linguagens, Java ou C++ ).
 
-# 🧠 Regras para Nomeação de Variáveis
+## 🧠 Regras para Nomeação de Variáveis
 
 | Regra | Descrição |
 |:------|:----------|
@@ -16,7 +18,7 @@ As variáveis são usadas para armazenar informações que poderão ser manipula
 
 > Boas práticas: use nomes descritivos que deixem claro o que a variável representa.
 
-# ✅ Exemplos de Nomes de Variáveis
+## ✅ Exemplos de Nomes de Variáveis
 
 | Nome | Tipo | Observação |
 |:-----|:--------|:-----------|
@@ -29,22 +31,23 @@ As variáveis são usadas para armazenar informações que poderão ser manipula
 | 29idade | Inválido | Não pode começar com número. |
 | nome completo | Inválido | Espaços não são permitidos; use `_`. |
 
-# Tipos de Dados
+## Tipos de Dados
+
 Em Python, os tipos de dados determinam o tipo de valor que uma variável pode armazenar. Python é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar o tipo da variável explicitamente.
 
-# 🔹 Python Data Types Table
+## Tabela de Tipos de Dados Python
 
-| Data Type | Description | Code Example | Real Life Example |
+| Tipo de Dado | Descrição | Exemplo de Código | Exemplo da Vida Real |
 |:-------------|:----------|:------------------|:--------------------|
-| **int** | Integers (no decimal places). | `age = 30` | Age of a person: `30 years old` |
-| **float** | Numbers with decimal places. | `height = 1.75` | Height of a person: `1.75 meters` |
-| **str** | Strings (text). | `name = "Carlos"` | Name of a student: `"Carlos"` |
-| **bool** | Boolean values ​​(`True` or `False`). | `is_student = True` | Whether the person is enrolled: `True` |
-| **list** | Ordered and mutable collections. | `fruits = ["apple", "banana", "orange"]` | Grocery shopping list. |
-| **tuple** | Ordered and immutable collections. | `coordinates = (10, 20)` | GPS location: `(latitude, longitude)` |
-| **dict** | Collections of key-value pairs. | `student = {"name": "Carlos", "age": 20}` | Student registration form. |
+| **int** | Inteiros (sem casas decimais). | `age = 30` | Idade de uma pessoa: `30 anos` |
+| **float** | Números com casas decimais. | `height = 1,75` | Altura de uma pessoa: `1,75 metros` |
+| **str** | Strings (texto). | `name = "Carlos"` | Nome de um aluno: `"Carlos"` |
+| **bool** | Valores booleanos (`True` ou `False`). | `is_student = True` | Se a pessoa está matriculada: `True` |
+| **list** | Coleções ordenadas e mutáveis. | `fruits = ["apple", "banana", "orange"]` | Lista de compras de supermercado. |
+| **tupla** | Coleções ordenadas e imutáveis. | `coordenadas = (10, 20)` | Localização GPS: `(latitude, longitude)` |
+| **dict** | Coleções de pares chave-valor. | `aluno = {"nome": "Carlos", "idade": 20}` | Formulário de inscrição de aluno. |
 
-# 📚 Explicação Rápida
+### 📚 Explicação Rápida
 
 - **Inteiros (int):** São usados para contar, identificar ou enumerar.
 
