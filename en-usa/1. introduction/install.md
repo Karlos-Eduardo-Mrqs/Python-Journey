@@ -1,81 +1,51 @@
-# Installing and Configuring Python 🐍
+# 📖 Introduction to Python
 
-Before you start coding in Python, you need to make sure you have the language installed on your machine. Here are the steps to install Python and set up your development environment.
-
-## 1. Installing Python
-
-### On Windows:
-1. Go to the official Python website: [python.org](https://www.python.org/downloads/).
-2. Download the latest version for Windows.
-3. Run the installer, making sure to check the **"Add Python to PATH"** option during installation.
-4. After installation, open the **Command Prompt** and type `python --version` to verify that the installation was successful.
-
-### On macOS:
-1. Go to the official Python website: [python.org](https://www.python.org/downloads/).
-2. Download the macOS installer and follow the installation instructions.
-3. After installation, open **Terminal** and type `python3 --version` to verify that the installation was successful.
-
-### On Linux:
-Python usually comes pre-installed on most Linux distributions. To verify, run in **Terminal**:
-```bash
-python3 --version
-```
-## 2. Installing a Text Editor 🖊️
-
-To code in Python, you'll need a text editor or an IDE (Integrated Development Environment). Some popular options include:
-
-- **VS Code**: [Download VS Code](https://code.visualstudio.com/)
-- **PyCharm**: [Download PyCharm](https://www.jetbrains.com/pycharm/)
-- **Sublime Text**: [Download Sublime Text](https://www.sublimetext.com/)
+Take your first steps in the world's most popular language!
 
 ---
 
-## 3. Testing the Installation 🧪
+## 🔹 About this section
 
-After installing Python and your text editor or IDE, create your first Python script:
+This is where your journey with Python begins!
 
-### Using an IDE (VS Code, PyCharm, or other):
+In this step, we will understand what Python is, how to install the development environment and write your first codes.
 
-1. Open your **IDE** (such as VS Code or PyCharm). 2. Create a new file named `hello_world.py`.
-
-3. In the file, write the following code:
-
-```python
-print("Hello, World!")
-```
-
-4. Save the file.
-
-### Setting up VS Code for Python:
-
-Make sure to install the Microsoft Python extension in VS Code:
-
-1. Click on Extensions (square icon on the left side or Ctrl + Shift + X).
-
-- Search for Python.
-
-- Install the official Microsoft extension.
-
-- Run the script:
-
-#### In VSCode:
-
-Right-click on the file and select "Run Python File in Terminal".
-
-Or press Ctrl + F5 to run without debugging.
-
-#### In PyCharm:
-
-Right-click on the file and select "Run 'hello_world'".
-
-Or click the green ▶️ button next to the print("Hello, World!") line.
+The idea is to create a solid foundation so that you feel comfortable when advancing to more complex content.
 
 ---
 
-# ✅ Conclusion
+## 📖 Topics covered
 
-Now that you've successfully installed Python, set up your environment, and created your first script, you're ready to start your programming journey! 🚀
+### [What is Python 🐍?](./what_is_python.md)
 
-Mastering the installation and basic operation of the environment is the first step to creating amazing projects with Python — from simple scripts to automation, data analysis, artificial intelligence, and more.
+➔ A clear explanation about the language, its features, applications and historical context.
 
-> Keep exploring, practicing, and having fun with the process. Programming is a powerful skill, and with dedication, you'll go far!
+### [Installation and Configuration ⚒️](./install.md)
+
+➔ Step-by-step guide to installing Python and setting up your development environment.
+
+### [First Steps 🚶🏼‍♀️](./first_steps.md)
+
+➔ Creating your first Python program and initial concepts such as output commands and comments.
+
+---
+
+## ✍️ What you will be able to do after this section
+
+- Understand what Python is and why it is so important.
+
+- Install Python correctly on your computer.
+
+- Write and run your first simple programs.
+
+---
+
+## 🚀 Tips to get the most out of it
+
+- Install a code editor that is comfortable for you (we recommend VSCode!).
+- Test all the examples in practice: don't just read the code, type it yourself.
+- Stay curious: explore small changes in the codes to see what happens!
+
+---
+
+## 🎯 Now, your journey really begins!
