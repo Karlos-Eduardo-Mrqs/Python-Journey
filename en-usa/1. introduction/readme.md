@@ -1,34 +1,49 @@
 # 📖 Introduction to Python
+
 Take your first steps in the world's most popular language!
 
-# 🔹 About this section
-Here's where your journey with Python begins!
+---
 
-In this step, we'll understand what Python is, how to install the development environment and write your first codes.
+## 🔹 About this section
 
-The idea is to create a solid foundation so that you feel comfortable moving on to more complex content.
+This is where your journey with Python begins!
 
-# 📖 Topics covered
+In this step, we will understand what Python is, how to install the development environment and write your first codes.
 
-## What is Python 🐍?
-➔ A clear explanation of the language, its features, applications and historical context.
+The idea is to create a solid foundation so that you feel comfortable when advancing to more complex content.
 
-## Installation and Configuration ⚒️
-➔ Step-by-step guide to installing Python and configuring your development environment.
+---
 
-## First Steps 🚶🏼‍♀️
-➔ Creating your first Python program and initial concepts such as output commands and comments.
+## 📖 Topics covered
 
-# ✍️ What you can do after this section
+### [What is Python 🐍?](/pt-br/1.%20introducao/o_que_e_python.md)
+
+➔ A clear explanation about the language, its features, applications and historical context.
+
+### [Installation and Configuration ⚒️](/pt-br/1.%20introducao/instalacao.md)
+
+➔ Step-by-step guide to installing Python and setting up your development environment.
+
+### [First Steps 🚶🏼‍♀️](/pt-br/1.%20introducao/primeiros_passos.md)
+
+➔ Creating the first program in Python and initial concepts such as output commands and comments.
+
+---
+
+## ✍️ What you will be able to do after this section
 
 - Understand what Python is and why it is so important.
 - Install Python correctly on your computer.
 - Write and run your first simple programs.
 
-# 🚀 Tips to get the most out of it
+---
+
+## 🚀 Tips to get the most out of it
 
 - Install a code editor that is comfortable for you (we recommend VSCode!).
 - Test all the examples in practice: don't just read the code, type it yourself.
 - Stay curious: explore small changes in the codes to see what happens!
 
-# 🎯 Now your journey really begins!
+---
+
+## 🎯 Now, your journey really begins!
