@@ -1,151 +1,153 @@
-# Primeros pasos
+# Primeros Pasos 🐍
 
-Ahora que el entorno ha sido previamente configurado, ¡podemos comenzar nuestros primeros pasos con la programación en Python!
+Ahora que has configurado tu entorno, ¡podemos empezar a programar en Python!
 
-#Variables
+---
 
-Las variables se utilizan para almacenar información que se puede manipular en todo el programa. En Python, crear una variable es simple y no requiere definir el tipo de dato (como ocurre en otros lenguajes, Java o C++).
+## 📦 Variables
 
-# 🧠 Reglas para nombrar variables
+Las variables se utilizan para almacenar información que se puede manipular a lo largo del programa. En Python, crear una variable es sencillo y no requiere definir el tipo de dato (como ocurre en lenguajes como Java o C++).
+
+---
+
+## 🧠 Reglas para nombrar variables
 
 | Regla | Descripción |
-|:------|:----------|
-| Comienza con una letra o `_` | El nombre de la variable debe comenzar con una letra (a-z, A-Z) o un guión bajo (`_`). |
-| Letras, números y guiones bajos | Después del primer carácter, el nombre puede contener letras, números y guiones bajos. |
-| No empieces con un número | Las variables **no pueden** comenzar con números. |
-| Distingue entre mayúsculas y minúsculas | Python distingue entre mayúsculas y minúsculas (`name`, `Name` y `NAME` son variables diferentes). |
-| Evite las palabras reservadas | No utilice palabras clave del lenguaje (como `class`, `if`, `for`) como nombres de variables. |
+| :---------------------------- | :----------------------------------------------------------------------------------- |
+| Empieza con una letra o `_` | El nombre debe empezar con una letra (a-z, A-Z) o un guion bajo (`_`). |
+| Letras, números y guiones bajos | Después del primer carácter, puede contener letras, números y guiones bajos. |
+| No empieza con un número | Las variables **no pueden** empezar con números. |
+| Distingue entre mayúsculas y minúsculas | Python distingue entre mayúsculas y minúsculas (`name`, `Name` y `NAME` son diferentes). |
+| Evita las palabras reservadas | No uses palabras clave del lenguaje (como `class`, `if`, `for`). |
 
-> Mejores prácticas: utilice nombres descriptivos que dejen claro qué representa la variable.
+> **💡 Buenas prácticas:** Usa nombres descriptivos que aclaren qué representa la variable.
 
-# ✅ Ejemplos de nombres de variables
+---
+
+## ✅ Ejemplos de nombres de variables
 
 | Nombre | Tipo | Nota |
-|:-----|:--------|:-----------|
-| nombre | Válido | Sólo letras minúsculas. |
-| para | No válido | «for» es una palabra reservada en Python. |
-| Nombre_completo | Válido | Uso de letras mayúsculas y guión bajo. |
-| edad29 | Válido | Puede tener números, pero **no al principio**. |
-| clase | No válido | «clase» es una palabra reservada en Python. |
-| _dirección | Válido | Se permite comenzar con un guión bajo. |
-| 29 años | No válido | No se puede empezar con un número. |
-| nombre completo | No válido | No se permiten espacios; utiliza `_`. |
+| :------------- | :------- | :----------------------------------- |
+| nombre | Válido | Solo minúsculas. |
+| for | Inválido | Palabra reservada. |
+| Nombre completo | Válido | Uso de mayúsculas y guiones bajos. |
+| edad29 | Válido | Puede contener números (no al principio). |
+| class | Inválido | Palabra reservada. |
+| \_direccion | Válido | Se permite empezar con guiones bajos. |
+| 3dad29 | Inválido | No puede empezar con un número. |
+| nombre completo | Inválido | No se permiten espacios; use `_`. |
 
-# Tipos de Datos
+---
 
-En Python, los tipos de datos determinan el tipo de valor que una variable puede almacenar. Python es un lenguaje tipado dinámicamente, lo que significa que no es necesario declarar explícitamente el tipo de la variable.
+## 🔢 Tipos de datos
 
-# 🔹 Tabla de tipos de datos de Python
+Python es un lenguaje de tipado dinámico. Esto significa que no es necesario declarar explícitamente el tipo de una variable; se define automáticamente en función del valor asignado.
 
-| Tipo de datos | Descripción | Ejemplo de código | Ejemplo de la vida real |
-|:--------------|:----------|:------------------|:-------------------|
-| **int** | Números enteros (sin decimales). | `edad = 30` | Edad de una persona: `30 años` |
-| **flotar** | Números con decimales. | `altura = 1.75` | Altura de una persona: `1,75 metros` |
-| **cadena** | Cadenas (texto). | `nombre="Carlos"` | Nombre de un estudiante: `"Carlos"` |
-| **bool** | Valores booleanos (`Verdadero` o `Falso`). | `es_estudiante = Verdadero` | Si la persona está inscrita: `Verdadero` |
-| **lista** | Colecciones ordenadas y mutables. | `frutas = ["manzana", "plátano", "naranja"]` | Lista de compras de comestibles. |
-| **tupla** | Colecciones ordenadas e inmutables. | `coordenadas = (10, 20)` | Ubicación GPS: `(latitud, longitud)` |
-| **dictar** | Colecciones de pares clave-valor. | `estudiante = {"nombre": "Carlos", "edad": 20}` | Formulario de inscripción de estudiantes. |
+---
 
-# 📚 Explicación rápida
-    
-- **Números enteros (int):** Se utilizan para contar, identificar o enumerar.
+### 📋 Tabla de Tipos de Datos
 
-- **Flotadores (float):** Representan valores fraccionarios, como alturas y medidas.
+| Tipo | Descripción | Ejemplo de Código | Ejemplo Real |
+| :------ | :------------------------- | :---------------------------------------- | :-------------------------------------------------------- |
+| `int` | Enteros. | `age = 30` | Edad de una persona. |
+| `float` | Números con decimales. | `height = 1.75` | Altura en metros. |
+| `str` | Cadena de texto. | `name = "Carlos"` | Nombre de alguien. |
+| `bool` | Verdadero o falso. | `active = True` | ¿Está activo? |
+| `list` | Lista ordenada y mutable. | `fruits = ["apple", "banana"]` | Lista de la compra. |
+| `tuple` | Lista ordenada e inmutable. | `coordinates = (10, 20)` | Ubicación GPS. *(“Tuple” es el término en inglés para “tupla”)* |
+| `dict` | Estructura clave-valor. | `student = {"name": "Ana", "age": 20,}` | Matrícula de estudiante. |
 
-- **Cadenas (str):** Son textos que pueden incluir letras, números y símbolos.
+---
 
-- **Valores booleanos (bool):** Representan solo dos estados: verdadero o falso.
+### 📚 Explicación rápida
 
-- **Listas (list):** Almacenan una secuencia de valores que se pueden modificar.
+- **`int`** → enteros.
+- **`float`** → decimales.
+- **`str`** → textos (cadenas).
+- **`bool`** → valores lógicos (Verdadero o Falso).
+- **`list`** → colecciones mutables.
+- **`tuple`** → colecciones inmutables.
+- **`dict`** → clave y valor (tipo diccionario).
 
-- **Tuplas (tuple):** Almacenan una secuencia que no se puede modificar.
-
-- **Diccionarios (dict):** Almacenan datos en pares (clave y valor), como una hoja de información.
+---
 
 ## ✅ Ejemplos prácticos combinados
 
 ```python
-nombre = "Anna" # str
+nombre = "Ana" # str
 edad = 25 # int
-altura = 1.68 # flotante
-estudiante = Verdadero # bool
-temas = ["Python", "SQL", "Git"] # lista
+altura = 1.68 # float
+estudiante = True # bool
+materias = ["Python", "SQL", "Git"] # lista
 coordenadas = (34.5, -120.7) # tupla
 perfil = {"nombre": "Ana", "edad": 25} # dict
 ```
 
-# Comandos de entrada y salida
+## Comandos de entrada y salida
 
-Ahora que entiendes las variables y los tipos de datos, ¡aprendamos a interactuar con el usuario!
-
-Python tiene funciones simples para la entrada y salida de datos:
+Aprendamos a interactuar con el usuario mediante la entrada de datos (``input``) y la salida (``print``).
 
 ---
 
-## 🔹 Salida: `print()`
+## 🔹 Salida de datos: `print()`
 
 El comando `print()` se utiliza para mostrar información en la consola.
 
-### Ejemplos:
-
-> Inicio:
+Inicio:
 
 ```python
 print("¡Hola, mundo!")
 print("La suma de 2 + 3 es:", 2 + 3)
 ```
 
-> Salida:
+Salida:
 
 ```bash
-¡Hola Mundo!
+¡Hola, mundo!
 La suma de 2 + 3 es: 5
 ```
 
 ## 🔹 Entrada: `input()`
 
-El comando `input()` le permite recibir datos del usuario.
+El comando `input()` permite recibir datos del usuario.
 
-### Ejemplo:
+Ejemplo:
 
 ```python
-nombre = input("Ingrese su nombre: ")
-print("Bienvenido,", nombre)
+name = input("Introduce tu nombre: ")
+print("Bienvenido", name)
 ```
 
-> Cómo funciona:
-
-El programa se detendrá y esperará que el usuario escriba algo.
+El programa se pausará y esperará a que el usuario escriba algo.
 
 Todo lo que se escriba se almacenará como una cadena.
 
-## ⚡ ¡Atención!
+## ⚡ Conversión de Tipos (Conversión)
 
-De forma predeterminada, todo lo que lea input() será del tipo str (texto), ¡incluso si el usuario ingresa números!
-
-**Para convertir el tipo, utilizamos la conversión:**
-
-Ejemplo de conversión:
+Para trabajar con números, necesitamos convertir la entrada manualmente mediante funciones de conversión:
 
 ```python
-edad = int(input("Ingrese su edad: "))
-altura = float(input("Ingrese su altura: "))
+age = int(input("Introduce tu edad: "))
+height = float(input("Introduce tu altura: "))
 ```
 
 - **int() :** convierte a entero.
 - **float() :** convierte a punto flotante.
+- **str() :** convierte a texto (cadena), si es necesario.
 
 ---
 
-# 🚀 Conclusión
+## 🚀 Conclusión
 
-Estos primeros pasos son esenciales para tu viaje con el lenguaje Python. Desde aquí ya puedes crear pequeños scripts que reciben datos del usuario, procesan información y muestran resultados en la pantalla.
+Estos primeros pasos son fundamentales en tu experiencia con Python. A partir de aquí, ¡ya puedes crear pequeños scripts que reciben datos, procesan información y muestran resultados en pantalla!
 
-> ¡Sigue practicando! Intentar:
+> ¡Sigue practicando! Prueba:
 
-- Crear un programa que calcule el promedio de dos calificaciones;
-- Realizar un registro simple con nombre, edad y ciudad;
-- Elaborar un diccionario que tenga nombre, edad, situación (estudiando: verdadero), y otros;
+- Crea un programa que calcule el promedio de dos calificaciones;
+- Crea un registro simple con nombre, edad y ciudad; - Desarrolla un diccionario que contenga nombres, edades, situaciones (estudiando: verdadero) y más;
 
-> ¡Cada pequeño ejercicio te hará sentir más seguro y preparado para los próximos módulos, como estructuras condicionales, repeticiones, funciones y mucho más! 💡🐍
+> 💾 Consejo: ¡Guarda tus pruebas en un archivo como exercicios.py para crear tu propia base de estudio!
+
+> Cada pequeño ejercicio te dará más confianza y te preparará para los siguientes módulos, como estructuras condicionales, repeticiones, funciones y mucho más. 💡🐍
+
+**Siguiente módulo: [Fundamentos del lenguaje](../2.%20fundamentals/readme.md)**
