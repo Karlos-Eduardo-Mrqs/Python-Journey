@@ -1,48 +1,72 @@
 # Instalación y configuración de Python 🐍
 
-Antes de comenzar a codificar en Python, debes asegurarte de tener el lenguaje instalado en tu máquina. Estos son los pasos para instalar Python y configurar su entorno de desarrollo.
+Antes de empezar a programar en Python, asegúrate de tener el lenguaje instalado en tu equipo. Estos son los pasos para instalar Python y configurar tu entorno de desarrollo.
 
 ## 1. Instalación de Python
 
-### En Windows:
+### En Windows
 
-1. Vaya al sitio web oficial de Python: [python.org](https://www.python.org/downloads/).
-2. Descargue la última versión para Windows.
-3. Ejecute el instalador, asegurándose de marcar la opción **"Agregar Python a PATH"** durante la instalación.
-4. Después de la instalación, abra el **Símbolo del sistema** y escriba `python --version` para verificar que la instalación se haya realizado correctamente.
+1. Visita el sitio web oficial de Python: [python.org](https://www.python.org/downloads/).
 
-### En macOS:
+![alt text](/assets/PythonInWindows.png)
 
-1. Vaya al sitio web oficial de Python: [python.org](https://www.python.org/downloads/).
-2. Descargue el instalador de macOS y siga las instrucciones de instalación.
-3. Después de la instalación, abra **Terminal** y escriba `python3 --version` para verificar que la instalación fue exitosa.
+1. Descarga la última versión para Windows *actualmente la 3.13.3*.
 
-### En Linux:
+1. Ejecuta el instalador, asegurándote de marcar la opción **"Añadir python.exe a la RUTA"** durante la instalación.
 
-Python generalmente viene preinstalado en la mayoría de las distribuciones de Linux. Para verificar, ejecute en 
+![texto alternativo](/assets/PythonInWindows2.png)
 
-**Terminal**:
-```python
-python3 --versión 
+4. Tras la instalación, abra el **Símbolo del sistema (CMD)** y escriba el comando:
+
+```bash
+python --version
+```
+
+![texto alternativo](/assets/PythonInWindows3.png)
+
+### En macOS
+
+1. Visite el sitio web oficial de Python: [python.org](https://www.python.org/downloads/).
+
+2. Descargue el instalador para macOS y siga las instrucciones de instalación.
+
+3. Tras la instalación, abra la **Terminal** y escriba `python3 --version` para verificar que la instalación se haya realizado correctamente.
+
+### En Linux
+
+Python suele venir preinstalado en la mayoría de las distribuciones de Linux. Para comprobarlo, ejecute en la **Terminal**:
+
+```bash
+python3 --version
 ```
 
 ## 2. Instalar un editor de texto 🖊️
 
-Para codificar en Python, necesitarás un editor de texto o un IDE (entorno de desarrollo integrado). Algunas opciones populares incluyen:
+Para programar en Python, necesitarás un editor de texto o un IDE (Entorno de Desarrollo Integrado). Algunas opciones populares incluyen:
 
 - **VS Code**: [Descargar VS Code](https://code.visualstudio.com/)
+
+![Sitio de VS Code](/assets/VscodeSite.png)
+
 - **PyCharm**: [Descargar PyCharm](https://www.jetbrains.com/pycharm/)
+
+![Sitio de Pycharm](/assets/PycharmSite.png)
+
 - **Sublime Text**: [Descargar Sublime Text](https://www.sublimetext.com/)
+
+![Sitio de Sublime](/assets/SublimeSite.png)
 
 ---
 
-## 3. Probando la instalación 🧪
+## 3. Probar la instalación 🧪
 
 Después de instalar Python y su editor de texto o IDE, cree su primer script de Python:
 
 ### Usando un IDE (VS Code, PyCharm u otro):
 
-1. Abra su **IDE** (como VS Code o PyCharm). 2. Crea un nuevo archivo llamado `hello_world.py`.
+1. Abra su **IDE** (como VS Code o PyCharm).
+
+2. Crea un nuevo archivo llamado `hello_world.py`.
 
 3. En el archivo, escribe el siguiente código:
 
@@ -50,38 +74,46 @@ Después de instalar Python y su editor de texto o IDE, cree su primer script de
 print("¡Hola, mundo!")
 ```
 
-4. Guarde el archivo.
+4. Guarda el archivo con CTRL + S.
 
-### Configuración de VS Code para Python:
+5. Si quieres que el archivo se guarde cada vez que realices un cambio:
 
-Asegúrese de instalar la extensión Microsoft Python en VS Code:
+![Guardado automático](/assets/AutoSaveConfig.png)
 
-1. Haga clic en Extensiones (icono cuadrado en el lado izquierdo o Ctrl + Shift + X).
+### Configuración de VS Code para Python
 
-- Buscar Python.
+Asegúrate de instalar la extensión de Python de Microsoft en VS Code:
 
-- Instalar la extensión oficial de Microsoft.
+1. Haz clic en Extensiones (icono cuadrado a la izquierda o Ctrl + Mayús + X).
 
-- Ejecutar el script:
+- Busca Python.
 
-#### En VSCode:
+- Instala la extensión oficial de Microsoft.
 
-Haga clic derecho en el archivo y seleccione "Ejecutar archivo Python en la terminal".
+![texto alternativo](/assets/PythonExtension.png)
 
-O presione Ctrl + F5 para ejecutar sin depurar.
+- Ejecuta el script
 
-#### En PyCharm:
+#### Sin VSCode
 
-Haga clic derecho en el archivo y seleccione "Ejecutar 'hello_world'".
+Haz clic derecho en el archivo y selecciona **"Ejecutar archivo de Python en la terminal".
 
-O haga clic en el botón verde ▶️ junto a la línea de impresión ("¡Hola, mundo!").
+O pulsa Ctrl + F5 para ejecutarlo sin depurar.
+
+#### Sin PyCharm
+
+Haz clic derecho en el archivo y selecciona "Ejecutar 'hello_world'".
+
+O haz clic en el botón verde ▶️ junto a la línea print("Hello, World!").
 
 ---
 
-# ✅ Conclusión
+## ✅ Conclusión
 
-¡Ahora que has instalado Python correctamente, has configurado tu entorno y has creado tu primer script, estás listo para comenzar tu viaje de programación! 🚀
+Ahora que has instalado Python, configurado tu entorno y creado tu primer script, ¡estás listo para comenzar tu aventura en la programación! 🚀
 
-Dominar la instalación y el funcionamiento básico del entorno es el primer paso para crear proyectos increíbles con Python, desde scripts simples hasta automatización, análisis de datos, inteligencia artificial y más.
+Dominar la instalación y el funcionamiento básico del entorno es el primer paso para crear proyectos increíbles con Python, desde scripts sencillos hasta automatización, análisis de datos, inteligencia artificial y mucho más.
 
-> Sigue explorando, practicando y divirtiéndote con el proceso. Programar es una habilidad poderosa y, con dedicación, ¡llegarás lejos!
+> Sigue explorando, practicando y divirtiéndote con el proceso. ¡Programar es una habilidad poderosa y, con dedicación, llegarás muy lejos!
+
+**Siguiente archivo: [Primeros pasos](./primeros-pasos.md)**

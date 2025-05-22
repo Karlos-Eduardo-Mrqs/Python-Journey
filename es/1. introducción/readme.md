@@ -1,34 +1,49 @@
 # 📖 Introducción a Python
-¡Da tus primeros pasos en el idioma más popular del mundo!
 
-# 🔹 Acerca de esta sección
-¡Aquí es donde comienza tu viaje con Python!
+¡Da tus primeros pasos en el lenguaje más popular del mundo!
 
-En este paso, entenderemos qué es Python, cómo instalar el entorno de desarrollo y escribir tus primeros códigos.
+---
 
-La idea es crear una base sólida para que te sientas cómodo al avanzar hacia contenidos más complejos.
+## 🔹 Acerca de esta sección
 
-# 📖 Temas tratados
+¡Aquí comienza tu aventura con Python!
 
-## ¿Qué es Python 🐍?
-➔ Una explicación clara del lenguaje, sus características, aplicaciones y contexto histórico.
+En este paso, comprenderemos qué es Python, cómo instalar el entorno de desarrollo y cómo escribir tus primeros códigos.
 
-## Instalación y configuración ⚒️
-➔ Guía paso a paso para instalar Python y configurar su entorno de desarrollo.
+La idea es crear una base sólida para que te sientas cómodo al avanzar hacia contenido más complejo.
 
-## Primeros pasos 🚶🏼‍♀️
-➔ Creación de su primer programa en Python y conceptos iniciales como comandos de salida y comentarios.
+---
 
-# ✍️ Qué puedes hacer después de esta sección
+## 📖 Temas tratados
 
-- Comprender qué es Python y por qué es tan importante.
-- Instale Python correctamente en su computadora.
-- Escribe y ejecuta tus primeros programas sencillos.
+### [¿Qué es Python 🐍?](./qué-es-python.md.md)
 
-# 🚀 Consejos para sacarle el máximo partido
+➔ Una explicación clara sobre el lenguaje, sus características, aplicaciones y contexto histórico.
 
-- Instala un editor de código que te resulte cómodo (¡te recomendamos VSCode!).
-- Prueba todos los ejemplos en la práctica: no te limites a leer el código, escríbelo tú mismo.
-- Mantén la curiosidad: ¡explora pequeños cambios en los códigos para ver qué sucede!
+### [Instalación y configuración ⚒️](./instalación.md)
 
-# 🎯 ¡Ahora tu viaje realmente comienza!
+➔ Guía paso a paso para instalar Python y configurar tu entorno de desarrollo.
+
+### [Primeros pasos 🚶🏼‍♀️](./primeros-pasos.md)
+
+➔ Creación del primer programa en Python y conceptos iniciales como comandos de salida y comentarios.
+
+---
+
+## ✍️ Qué podrás hacer después de esta sección
+
+- Entender qué es Python y por qué es tan importante.
+- Instalar Python correctamente en tu ordenador.
+- Escribir y ejecutar tus primeros programas sencillos.
+
+---
+
+## 🚀 Consejos para sacarle el máximo partido
+
+- Instala un editor de código que te resulte cómodo (¡recomendamos VSCode!).
+- Prueba todos los ejemplos en la práctica: no solo leas el código, escríbelo tú mismo.
+- Mantén la curiosidad: ¡explora pequeños cambios en el código para ver qué sucede!
+
+---
+
+## 🎯 ¡Ahora sí que empieza tu aventura!
