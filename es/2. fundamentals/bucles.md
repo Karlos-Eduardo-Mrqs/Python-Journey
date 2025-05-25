@@ -219,3 +219,5 @@ Crea una nueva lista con los cuadrados de los números del 1 al 10 usando compre
 - **Practica la lectura y la escritura de listas por comprensión: harán que tu código sea más claro y expresivo.**
 
 > ¡Ahora es tu turno! 🐍 ¡Practica con los ejercicios, prueba variaciones de los ejemplos y continúa evolucionando en el mundo de la programación con Python!
+
+**Seguiente archivo : [funciones](./funciones.md)**

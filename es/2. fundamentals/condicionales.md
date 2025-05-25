@@ -161,3 +161,5 @@ Utilice condicionales para validar las entradas de datos, como los cálculos de 
 Utilice la combinación de mayúsculas y minúsculas en sistemas que involucran múltiples casos, lo que hará que su código sea más organizado y legible.
 
 > ¡Ahora es el momento de poner en práctica lo aprendido! ✨🐍 ¡Sigue explorando, resolviendo desafíos y mejorando tus habilidades en Python!
+
+**Seguiente archivo : [bluces](./bucles.md)**

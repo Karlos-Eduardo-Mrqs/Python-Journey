@@ -97,8 +97,8 @@ print(a not in c) # Falso → a y c tienen el mismo contenido, pero son objetos 
 
 | Operador | Descripción | Ejemplo | Resultado |
 |----------|----------|---------|----------|
-| `en` | Devuelve "Verdadero" si el valor está presente | `'a' en 'Carlos'` | `Verdadero` |
-| `no en` | Devuelve "Verdadero" si el valor **no** está presente | `5 no en [1,2,3]` | `Verdadero` |
+| `in` | Devuelve "Verdadero" si el valor está presente | `'a' in 'Carlos'` | `True` |
+| `no in` | Devuelve "Verdadero" si el valor **no** está presente | `5 no in [1,2,3]` | `True` |
 
 ### Ejemplo 🔎📦
 
@@ -168,3 +168,27 @@ El orden que utiliza Python para resolver expresiones:
 14. `=`, `+=`, `-=`, etc.
 
 ---
+
+# 🚀 Conclusión
+
+Los operadores de Python son herramientas esenciales para realizar operaciones y comparar datos eficientemente. Con esta descripción general, podrás realizar desde cálculos aritméticos simples hasta manipulación avanzada de datos con operadores lógicos, bit a bit y de asignación.
+
+**Para seguir avanzando en tu aprendizaje, te sugerimos algunos ejercicios**:
+
+- *Operadores aritméticos:* Crea un programa que realice las cuatro operaciones matemáticas con los números proporcionados por el usuario.
+
+- *Operadores relacionales:* Desarrolla un sistema que compare las edades de dos personas e indique quién es mayor.
+
+- *Operadores lógicos:* Implementa una función que compruebe si un número está entre dos valores (usando `y` y `or`).
+
+- *Operadores miembro:* Crea un programa que solicite al usuario un artículo y compruebe si está en una lista de la compra.
+
+- *Operadores bit a bit:* Intenta manipular los bits de un número y observa cómo cambia su valor.
+
+**🔍 Consejo:** La práctica constante es clave para consolidar tu comprensión de los operadores. Con el tiempo, ¡se integrarán de forma natural en tu código!
+
+**💡 Próximos pasos:** Una vez que domines los operadores, explora cómo usarlos en estructuras condicionales y de bucle. ¡Esto te permitirá escribir programas más dinámicos e interesantes!
+
+> Dominar los operadores te da control total sobre cómo tu programa toma decisiones y transforma datos. ¡Esta es la base para crear sistemas inteligentes y eficientes!
+
+**Seguiente Archivo : [condicionales](./condicionales.md)**
