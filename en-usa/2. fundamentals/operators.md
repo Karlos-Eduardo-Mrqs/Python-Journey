@@ -1,24 +1,24 @@
 # 🔢 Operators in Python
 
-Operators are symbols used to perform operations on variables and values. Python has several types of operators.
+Operators are symbols used to perform operations on variables and values. They are essential for manipulating data and performing calculations within a program. Depending on the type of operation you want to perform, you will use different types of operators. In Python, operators can be classified into the following categories:
 
 ## 🔹 Arithmetic ➕➖✖️➗
 
-> **Arithmetic operators are used to perform mathematical operations, such as adding, subtracting, multiplying, and dividing values.**
+> **Arithmetic operators are used to perform mathematical operations such as adding, subtracting, multiplying, and dividing values.**
 
-> They are useful in any situation where calculations need to be made — whether it's adding the age of users, calculating discounts, or multiplying values ​​in a shopping cart.
+> They are useful in any situation where calculations need to be done — whether it is adding the age of users, calculating discounts, or multiplying values ​​in a shopping cart.
 
-| 🧮 Operator | 📝 Description | 💡 Example |
-|------------|--------------|------------|
+| 🧮 Operator | 📝Description | 💡 Example |
+|------------|-------------|------------|
 | `+` | Addition | `2 + 3` → `5` |
 | `-` | Subtraction | `5 - 2` → `3` |
 | `*` | Multiplication | `4 * 2` → `8` |
-| `/` | Division | `10 / 2` → `5.0` |
+| `/` | Division | `10/2` → `5.0` |
 | `//` | Integer division | `10 // 3` → `3` |
-| `%` | Modulus (remainder) | `10 % 3` → `1` |
+| `%` | Modulus (remainder) | `10% 3` → `1` |
 | `**` | Power | `2 ** 3` → `8` |
 
-## 🔹 Relational (Comparison) 🔎
+## 🔹 Relational 🔎
 
 > **These operators compare two values ​​and return a boolean result (``True`` or ``False``).** 
 
@@ -31,7 +31,7 @@ Operators are symbols used to perform operations on variables and values. Python
 | `>` | Greater than | `4 > 2` → `True` |
 | `<` | Less than | `2 < 1` → `False` |
 | `>=` | Greater than or equal | `4 >= 4` → `True` |
-| `<=` | Less than or equal | `3 <= 5` → `True` |
+| `<=` | Less than or equal to | `3 <= 5` → `True` |
 
 ## 🔹 Logical 🔗
 
@@ -46,11 +46,11 @@ Operators are symbols used to perform operations on variables and values. Python
 > It is essential to understand the behavior of operators such as and, or and not.
 
 | A | B | A and B | A or B | not A |
-|---|---|----------|---------|--------|
-| ✅ | ✅ | ✅ | ✅ | ❌ |
+|---|---|---------|---------|---------|
+| ✅ | ✅ | ✅ | ❌ |
 | ✅ | ❌ | ❌ | ✅ | ❌ |
+| ❌ | ✅ | ❌ | ✅ | ❌ |
 | ❌ | ✅ | ❌ | ✅ | ✅ |
-| ❌ | ❌ | ❌ | ❌ | ✅ |
 
 > **✅: ``True`` | ❌: ``False``**
 
@@ -70,6 +70,7 @@ Operators are symbols used to perform operations on variables and values. Python
 
 > 📌 The `not` operator only depends on one (unary) value, unlike `and` and `or`, which compare two values.
 
+
 ## 🔹 Identity Operators 🆔
 
 > Used to check if two variables point to the same object in memory, and not just if they have the same value.
@@ -79,7 +80,7 @@ Operators are symbols used to perform operations on variables and values. Python
 | `is` | Returns `True` if the variables reference the same object in memory | `a is b` | `True` or `False` |
 | `is not` | Returns `True` if the objects are **different** | `a is not b` | `True` or `False` |
 
-> **💡 Hint: a == b compares the values, while a is b compares if they are the same object in memory.**
+**💡 Tip: a == b compares the values, while a is b compares if they are the same object in memory.**
 
 ### Example 🆔
 
@@ -91,16 +92,16 @@ print(a is b) # True → a and b are the same object
 print(a is c) # False → a and c have the same content, but are different objects
 ```
 
-## 🔹 Membership Operators 🔎📦
+## 🔹 Member Operators 🔎📦
 
 > Used to test if a value exists within a sequence, such as lists, strings or dictionaries.
 
 | Operator | Description | Example | Result |
-|----------|----------|---------|----------|
-| `in` | Returns `True` if the value is present | `'a' in 'Carlos'` | `True` |
-| `not in` | Returns `True` if the value is **not** present | `5 not in [1,2,3]` | `True` |
+|----------|----------|---------|-----------|
+| `in` | Returns `True` if the value is present | ``'a' in 'Carlos'`` | ``True`` | 
+| ``not in`` | Returns ``True`` if the value **not** is present | `5 not in [1,2,3]` | `True` |
 
-### Example 🔎📦
+### Example 🔎📦 
 
 ```python
 fruits = ['apple', 'banana']
@@ -108,6 +109,7 @@ print('banana' in fruits) # True
 print('orange' not in fruits) # True
 print("grape" in fruits) # False
 ```
+
 ## 🔹 Bitwise Operators 🧠⚙️
 
 > Operate directly on bits, being useful in low-level programming, networks, cryptography or manipulation of binary permissions.
@@ -115,11 +117,13 @@ print("grape" in fruits) # False
 | 🔢 Operator | 📛 Name | 💬 Description |
 |-------------|---------|---------------|
 | `&` | AND | Returns 1 if **both** bits are 1 |
-| `|` | OR | Returns 1 if **any** bit is 1 |
-| `^` | XOR | Returns 1 if bits are **different** |
-| `~` | NOT | Inverts all bits |
-| `<<` | Left shift | Shifts bits to the left |
-| `>>` | Right shift | Shifts bits to the right |
+| A slash | OR | Returns 1 if **any** bit is 1 |
+| `^` | XOR | Returns 1 if bits are **unequal** |
+| `~` | NOT | Invert all bits |
+| `<<` | Left shift | Shift bits to the left |
+| `>>` | Right shift | Shift bits to the right |
+
+**💡 Remember: numbers are represented in binary internally. For example, 5 in binary is 0101.**
 
 ### Example 🧠⚙️
 
@@ -132,18 +136,18 @@ print(a | b) # 7 → 0111 (0101 | 0011)
 
 ## 🔹 Assignment 📝
 
-> **They are used to store values ​​in variables.** In addition to the classic ``=``, there are operators that perform an operation and update the value of the variable, such as ``+=``, ``-=``, etc. This makes the code cleaner and more direct.
+> **They are used to store values ​​in variables.** In addition to the classic ``=``, there are operators that perform an operation and update the value of the variable, such as ``+=``, ``-=``, etc. This makes the code cleaner and more straightforward.
 
-| 🔢 Operator | 🟰 Equivalent |
-|----------|-------------|
-| `=` | Simple assignment |
-| `+=` | Adds and assigns |
-| `-=` | Subtracts and assigns |
-| `*=` | Multiplies and assigns |
-| `/=` | Divides and assigns |
-| `//=` | Performs integer division and assigns |
-| `%=` | Performs the modulus (remainder) and assigns |
-| `**=` | Performs exponentiation and assigns |
+| 🔢 Operator | 🟰 Equivalent | 💡 Example |
+| ----------- | ------------------------- | ------------------------ |
+| `=` | Simple assignment | `x = 10` → `x` is `10` |
+| `+=` | Add and assign | `x += 5` → `x = x + 5` |
+| `-=` | Subtract and assign | `x -= 3` → `x = x - 3` |
+| `*=` | Multiply and assign | `x *= 2` → `x = x * 2` |
+| `/=` | Divide and assign | `x /= 4` → `x = x / 4` |
+| `//=` | Integer division and assign | `x //= 3` → `x = x // 3` |
+| `%=` | Modulus and assigns | `x %= 2` → `x = x % 2` |
+| `**=` | Exponentiation and assigns | `x **= 3` → `x = x ** 3` |
 
 ---
 
@@ -167,3 +171,28 @@ The order Python uses to resolve expressions:
 14. `=`, `+=`, `-=`, etc.
 
 ---
+
+# 🚀 Conclusion
+
+Python operators are essential tools for performing operations and comparing data efficiently. From this overview, you can perform everything from simple arithmetic calculations to advanced data manipulation with logical, bitwise, and assignment operators.
+
+**To continue advancing your learning, here are some suggested exercises:**
+
+- *Arithmetic Operators:* Create a program that performs the four mathematical operations with numbers provided by the user
+
+- *Relational Operators:* Develop a system that compares the ages of two people and tells who is older.
+
+- *Logical Operators:* Implement a function that checks if a number is between two values ​​(using and and or).
+
+- *Member Operators:* Create a program that asks the user for an item and checks if that item is on a
+shopping list.
+
+- *Bitwise Operators:* Try manipulating the bits of a number and see how it changes the value.
+
+**🔍 Tip:** Constant practice is key to solidifying your understanding of operators. Over time, they will become second nature to your code!
+
+**💡 Next Steps:** Once you have mastered operators, explore how to use them in conditional structures and loop structures. This will allow you to write more dynamic and interesting programs!
+
+> Mastering operators gives you full control over how your program makes decisions and transforms data. This is the foundation for creating intelligent and efficient systems!
+
+**[Next file : conditionals](./conditionals.md)**

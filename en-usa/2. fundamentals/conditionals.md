@@ -161,3 +161,5 @@ Use conditionals to validate data inputs, such as discount calculations based on
 Use match case for systems that involve multiple cases, making your code more organized and readable.
 
 > Now it's time to put your learning into practice! ✨🐍 Keep exploring, solving challenges and improving your Python skills!
+
+**Next file [loopings](./loopings.md)**

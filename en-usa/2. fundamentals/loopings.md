@@ -185,7 +185,7 @@ print(squares) # Output: [1, 4, 9, 16, 25]
 
 ---
 
-## 🚀 Conclusion
+# 🚀 Conclusion
 
 Repetition structures are essential for automating tasks and working with large volumes of data in Python. With them, you can repeat actions based on conditions (`while`) or efficiently traverse sequences (`for`), in addition to controlling the flow of execution with `break`, `continue` and `pass`.
 
@@ -219,3 +219,5 @@ Create a new list with the squares of the numbers 1 to 10 using list comprehensi
 - **Practice reading and writing list comprehensions — they make your code leaner and more expressive.**
 
 > Now it's your turn! 🐍 Practice with the exercises, try variations of the examples and continue evolving in the world of programming with Python!
+
+**Next file [functions](./functions.md)**
