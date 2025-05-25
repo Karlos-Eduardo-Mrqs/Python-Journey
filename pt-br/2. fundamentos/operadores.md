@@ -178,10 +178,14 @@ Os operadores em Python são ferramentas essenciais para realizar operações e 
 **Para continuar avançando no seu aprendizado, aqui estão algumas sugestões de exercícios:**
 
 - *Operadores Aritméticos:* Crie um programa que faça as quatro operações matemáticas com números fornecidos pelo usuário
+
 - *Operadores Relacionais:* Desenvolva um sistema que compare a idade de duas pessoas e diga quem é mais velho.
+
 - *Operadores Lógicos:* Implemente uma função que verifique se um número está entre dois valores (usando and e or).
+
 - *Operadores de Membros:* Crie um programa que pergunte ao usuário por um item e verifique se esse item está em uma
 lista de compras.
+
 - *Operadores Bit a Bit:* Experimente manipular os bits de um número e veja como ele altera o valor.
 
 **🔍 Dica:** A prática constante é a chave para solidificar o entendimento dos operadores. Com o tempo, eles se tornarão naturais no seu código!
@@ -189,3 +193,5 @@ lista de compras.
 **💡 Próximos Passos:** Depois de dominar os operadores, explore como utilizá-los em estruturas condicionais e estruturas de repetição. Isso vai permitir que você escreva programas mais dinâmicos e interessantes!
 
 > Dominar os operadores te dá controle total sobre como seu programa toma decisões e transforma dados. Essa é a base para criar sistemas inteligentes e eficientes!
+
+**Próximo arquivo : [condicionais](./condicionais.md)**

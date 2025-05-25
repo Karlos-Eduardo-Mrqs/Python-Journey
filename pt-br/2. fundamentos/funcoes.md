@@ -178,7 +178,9 @@ soma = lambda x, y: x + y
 print(soma(3, 5))  # Saída: 8
 ```
 
-## Conclusão 🚀
+--
+
+# Conclusão 🚀
 
 As funções em Python são blocos de código reutilizáveis que permitem organizar e modularizar seu programa, tornando-o mais legível, eficiente e fácil de manter. Elas são fundamentais para reduzir a repetição de código e facilitar a criação de programas escaláveis.
 
@@ -210,3 +212,5 @@ Divida seu código em funções pequenas, cada uma responsável por uma tarefa e
 Experimente criar funções recursivas para problemas que podem ser divididos em subproblemas menores, como o cálculo de fatorial ou a resolução de problemas de busca e ordenação.
 
 > Agora é hora de colocar o aprendizado em prática! ✨🐍 Continue explorando e criando suas próprias funções para resolver problemas do cotidiano e aprimorar suas habilidades em Python!
+
+**Próximo Modulo : [Estrutura de Dados](../3.%20estrutura%20de%20dados/README.md)**

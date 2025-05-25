@@ -161,3 +161,5 @@ Use condicionais para validar entradas de dados, como cálculos de descontos bas
 Utilize o match case para sistemas que envolvem múltiplos casos, tornando seu código mais organizado e legível.
 
 > Agora é hora de colocar o aprendizado em prática! ✨🐍 Continue a explorar, resolver desafios e aprimorar suas habilidades em Python !
+
+**Próximo arquivo : [loopings](./loopings.md)**
