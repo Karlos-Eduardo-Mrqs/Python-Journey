@@ -144,3 +144,5 @@ Try it yourself:
 3. Remove the third name.
 4. Add 2 new names.
 5. Display the final result with print().
+
+**Next File [Tuples](./tuples.md)**
