@@ -132,8 +132,9 @@ Después de esta sección, ya eres capaz de:
 - Recorrer listas con for;
 - ¡Resolver retos prácticos con listas!
 
+Ahora que conoces bien esta estructura, prueba a crear tus propios programas con listas y comprueba en la práctica cómo pueden facilitarte la vida como programador Python. 💡🐍
+
 > ➡️ Dominar las listas es esencial para continuar con temas más avanzados como estructuras de repetición, funciones e incluso manipulación de archivos y datos.
-> Ahora que conoces bien esta estructura, prueba a crear tus propios programas con listas y comprueba en la práctica cómo pueden facilitarte la vida como programador Python. 💡🐍
 
 ## 🧪 ¡Reto!
 
@@ -144,3 +145,5 @@ Intenta hacerlo tú mismo:
 3. Elimina el tercer nombre.
 4. Añade 2 nombres nuevos.
 5. Muestra el resultado final con print().
+
+**Seguiente archivo [Tuplas](./tuplas.md)**
