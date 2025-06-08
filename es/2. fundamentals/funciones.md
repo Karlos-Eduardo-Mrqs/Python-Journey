@@ -211,3 +211,5 @@ Divida su código en pequeñas funciones, cada una responsable de una tarea espe
 Intente crear funciones recursivas para problemas que puedan dividirse en subproblemas más pequeños, como calcular factorial o resolver problemas de búsqueda y clasificación.
 
 > ¡Ahora es el momento de poner en práctica lo aprendido! ✨🐍 ¡Sigue explorando y creando tus propias funciones para resolver problemas cotidianos y mejorar tus habilidades en Python!
+
+**Siguiente módulo: [Estructura de Datos](../3.%20estructura%20de%20datos/README.md)**
