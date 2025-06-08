@@ -144,3 +144,5 @@ Tente fazer sozinho:
 3. Remova o 3º nome.
 4. Adicione 2 novos nomes.
 5. Mostre o resultado final com print().
+
+**Próximo arquivo [Tuplas](./tuplas.md)**
