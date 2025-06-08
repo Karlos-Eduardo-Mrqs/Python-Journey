@@ -14,7 +14,7 @@ frutas = ["manzana", "plátano", "naranja"]
 mezcla = [1, "texto", True, 3.14]
 ```
 
-## 🔍 ¿Cómo acceder a los elementos? 
+## 🔍 ¿Cómo acceder a los elementos?
 
 ```python
 print(frutas[0])    # 'manzana'
