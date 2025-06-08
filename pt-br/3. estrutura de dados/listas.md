@@ -96,9 +96,8 @@ print(frutas)  # ['banana', 'laranja', 'maçã']
 
 ```python
 frutas = ["banana", "maçã", "laranja"]
-frutas.sort()
-print(frutas)  # ['banana', 'laranja', 'maçã']
-```
+frutas.reverse()
+print(frutas)  # ['laranja', 'maçã', 'banana']
 
 > 🔖 ``len()``
 
