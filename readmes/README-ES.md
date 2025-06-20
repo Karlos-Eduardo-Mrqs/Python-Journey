@@ -1,63 +1,81 @@
-# 🐍 Viaje a Python
+# 🐍 Python Journey
 
-> **"Tu viaje desde principiante hasta Python avanzado."**
+> **"Tu viaje de Python básico a avanzado."**
 
 ## Idiomas disponibles 🌐
 
-- **[Versión en español *tu estas aqui*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-ES.md)**
+- **[Versión en español *Actual*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-ES.md)**
 
-- **[Versión americana 🇺🇸](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
+- **[Versión english 🇺🇸](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
 
-- **[Versión brasileña BR 🇧🇷](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
-
+- **[Versión brasileña 🇧🇷](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
 
 ---
 
-## 📖 Acerca del Proyecto
+## 📖 Acerca de Proyecto
 
-**El viaje de Python** es una guía completa diseñada para aquellos que quieren aprender Python de una manera práctica, organizada y moderna.
+El **Viaje a Python** es una guía completa diseñada para quienes desean aprender Python de forma práctica, organizada y moderna.
 
-Aquí encontrarás desde los primeros pasos en el idioma hasta conceptos intermedios y proyectos sencillos para consolidar tu aprendizaje.
+Aquí encontrarás todo, desde los primeros pasos en el lenguaje hasta conceptos intermedios y proyectos sencillos para consolidar tu aprendizaje.
 
 **Ideal para:**
 
 - Principiantes en programación
-- Estudiantes de informática
+- Estudiantes de Informática
 - Personas en transición profesional
-- Aquellos que buscan fortalecer su base en Python
+- Quienes buscan fortalecer sus bases de Python
 
 ---
 
-## 📚 Modelos cubiertos
+## 📚 Módulos incluidos
 
-- Introducción a Python
-- Fundamentos del lenguaje
+- **Introducción a Python**
 
-*(¡Se agregarán otros modelos en el futuro!)*
+Primer contacto con el lenguaje, instalación y tus primeros scripts.
+
+- **Fundamentos del lenguaje**
+
+Aprende a usar operadores, condicionales, bucles y funciones.
+
+- **Estructuras de datos**
+
+Comprende cómo organizar y manipular información mediante listas, tuplas, diccionarios, conjuntos y comprensiones.
+
+*(¡Se añadirán más módulos próximamente! 🚧)*
 
 ## 🛠️ Estructura del repositorio
 
 ```bash
 🔹 01-introducción/
-   🔹 ¿qué-es-python.md?
+   🔹 qué-es-python.md
    🔹 instalación-y-configuración.md
    🔹 primeros-pasos.md
+   🔹 README.md
 
 🔹 02-fundamentos/
    🔹 operadores.md
    🔹 condicionales.md
    🔹 bucles.md
    🔹 funciones.md
+   🔹 README.md
+
+🔹 03-estructura_de_datos/
+   🔹 listas.md
+   🔹 tuplas.md
+   🔹 diccionarios.md
+   🔹 set.md
+   🔹 README.md
+
 🔹 README.md
 ```
 
-*(¡Se agregarán otros temas en el futuro!)*
+*(¡Se añadirán más temas próximamente!)*
 
 ---
 
-## 🚀 Cómo utilizar
+## 🚀 Cómo usar
 
-1. Clonar el repositorio:
+1. Clona el repositorio:
 
 ```bash
 git clone https://github.com/your-username/python-journey.git
@@ -71,20 +89,19 @@ git clone https://github.com/your-username/python-journey.git
 
 ## ✨ Diferenciadores
 
-- Estructura de aprendizaje progresivo
-- Explicaciones sencillas y ejemplos fáciles de entender.
+- Estructura de aprendizaje progresiva
+- Explicaciones sencillas y ejemplos fáciles de entender
 - Miniproyectos prácticos para consolidar conocimientos
 - Actualizado con las mejores prácticas de **2025**
 
-## 📢 Contribuyendo
+## 📢 Contribuciones
 
-¡Las contribuciones son muy bienvenidas! 
-Si desea mejorar ejemplos, corregir información o sugerir nuevo contenido:
+¡Agradecemos tus contribuciones! Si desea mejorar ejemplos, corregir información o sugerir nuevo contenido:
 
 - Bifurcar el proyecto
-- Crea una rama (`git checkout -b feature/FeatureName`)
-- Confirma tus cambios (`git commit -m 'feat: your message'`)
-- Push (`git push origin feature/FeatureName`)
+- Crear una rama (`git checkout -b feature/FeatureName`)
+- Confirmar los cambios (`git commit -m 'feat: your message'`)
+- Enviar (`git push origin feature/FeatureName`)
 - Abrir una solicitud de extracción
 
 ---
@@ -93,4 +110,4 @@ Si desea mejorar ejemplos, corregir información o sugerir nuevo contenido:
 
 Distribuido bajo la licencia MIT.
 
-Consulte “LICENCIA” para obtener más información.
+Consulte `LICENCIA` para más información.

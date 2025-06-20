@@ -8,7 +8,7 @@
 
 - **[BR Brasilian Version 🇧🇷](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
 
-- **[ES Spanish Version](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-ES.md)**
+- **[ES Spanish Version ](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-ES.md)**
 
 ---
 
@@ -27,12 +27,18 @@ Here you will find everything from the first steps in the language to intermedia
 
 ---
 
-## 📚 Models Covered
+## 📚 Modules Covered
 
-- Introduction to Python
-- Language Fundamentals
+- **Introduction to Python**  
+  First contact with the language, installation and your first scripts.
 
-*(Other models will be added in the future!)*
+- **Language Fundamentals**  
+  Learn how to use operators, conditionals, loops and functions.
+
+- **Data Structures**  
+  Understand how to organize and manipulate information using lists, tuples, dictionaries, sets and comprehensions.
+
+*(Other modules will be added in the future! 🚧)*
 
 ## 🛠️ Repository Structure
 
@@ -41,12 +47,22 @@ Here you will find everything from the first steps in the language to intermedia
    🔹 what-is-python.md
    🔹 installation-and-configuration.md
    🔹 first-steps.md
+   🔹 README.md
 
 🔹 02-fundamentals/
    🔹 operators.md
    🔹 conditionals.md
    🔹 loopings.md
    🔹 functions.md
+   🔹 README.md
+
+🔹 03-data_struct/
+   🔹 lists.md
+   🔹 tuples.md
+   🔹 dictionaries.md
+   🔹 set.md
+   🔹 README.md
+
 🔹 README.md
 ```
 
