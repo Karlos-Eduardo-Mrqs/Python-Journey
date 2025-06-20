@@ -145,3 +145,5 @@ By the end of this content, you will already be able to:
 > ➡️ Tuples are simple, fast and safe. Knowing when to use them is essential for writing efficient and well-structured code.
 
 Now that you understand the **lists** and the **tuples**, let’s continue with the **sets ('set')** and the **dictionaries ('dict')**. Continues to study! 💪🐍
+
+**Next File [Dictionaries](./dictionaries.md)**
