@@ -146,3 +146,5 @@ Ao final deste conteúdo, você já é capaz de:
 > ➡️ Tuplas são simples, rápidas e seguras. Saber quando usá-las é essencial para escrever código eficiente e bem estruturado.
 
 Agora que você entende bem **listas** e **tuplas**, vamos seguir com **conjuntos (`set`)** e **dicionários (`dict`)**. Continue estudando! 💪🐍
+
+**Próximo arquivo [Dicionarios](./dicionarios.md)**
