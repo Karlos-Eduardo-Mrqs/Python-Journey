@@ -72,3 +72,5 @@ Agora que você aprendeu sobre conjuntos em Python, é hora de testar seu conhec
 > Praticar com situações do dia a dia ajuda a entender melhor o uso real dessa estrutura poderosa.
 
 ---
+
+**Próximo Módulo [orientação de objetos](../4.%20orientacao_objetos/readme.md) ou vá para o [bônus](./bonus.md)**

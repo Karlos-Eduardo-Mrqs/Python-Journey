@@ -72,3 +72,5 @@ Now that you've learned about sets in Python, it's time to test your knowledge!
 > Practicing with day-to-day situations helps you better understand the real use of this powerful structure.
 
 ---
+
+**Next Module [object orientation](../4.%20object_orientation/README.md) or go to [bonus](./bonus.md)**
