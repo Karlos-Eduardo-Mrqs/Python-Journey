@@ -201,7 +201,7 @@ Create a function that determines whether a given number is prime.
 5. **Character Counting Function**
 Create a function that counts the number of occurrences of a character in a string.
 
-## 🔧 Tips for practice:
+## 🔧 Tips for practice
 
 - **Code modularization:**
 Divide your code into small functions, each responsible for a specific task, to facilitate maintenance and reuse.
@@ -210,3 +210,5 @@ Divide your code into small functions, each responsible for a specific task, to 
 Try creating recursive functions for problems that can be broken down into smaller subproblems, such as calculating factorial or solving search and sort problems.
 
 > Now it's time to put your learning into practice! ✨🐍 Keep exploring and creating your own functions to solve everyday problems and improve your Python skills!
+
+**Next Module: [Data Struct](../3.%20data%20struct/README.md)**

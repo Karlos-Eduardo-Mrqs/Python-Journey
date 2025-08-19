@@ -61,7 +61,7 @@ print(squares_dict)  # {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
 ---
 
-## 🧪 Challenge Time!
+## 🧪 Challenge Time
 
 Try to solve these using comprehensions:
 
@@ -83,4 +83,4 @@ But remember: **don’t sacrifice readability for conciseness**. If it becomes t
 
 > 🚀 Mastering comprehensions will make your Python code faster to write and easier to read. A small investment for big clarity!
 
-**Next Module [object orientation](../4.%20object_orientation/readme.md)**
+**Next Module [object orientation](../4.%20object_orientation/README.md)**

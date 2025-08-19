@@ -5,7 +5,6 @@ Operators are symbols used to perform operations on variables and values. They a
 ## 🔹 Arithmetic ➕➖✖️➗
 
 > **Arithmetic operators are used to perform mathematical operations such as adding, subtracting, multiplying, and dividing values.**
-
 > They are useful in any situation where calculations need to be done — whether it is adding the age of users, calculating discounts, or multiplying values ​​in a shopping cart.
 
 | 🧮 Operator | 📝Description | 💡 Example |
@@ -20,8 +19,7 @@ Operators are symbols used to perform operations on variables and values. They a
 
 ## 🔹 Relational 🔎
 
-> **These operators compare two values ​​and return a boolean result (``True`` or ``False``).** 
-
+> **These operators compare two values ​​and return a boolean result (``True`` or ``False``).**
 > They are essential in decision structures, such as ``if``, as they help us know if something is greater than, less than, equal to or different from another value.
 
 | 🔁 Operator | 🤔 Meaning | 💡 Example |
@@ -36,18 +34,16 @@ Operators are symbols used to perform operations on variables and values. They a
 ## 🔹 Logical 🔗
 
 > **Logical operators are used to combine boolean expressions.**
-
 > They are very useful when we want to check multiple conditions at the same time. For example: checking if a user is logged in and has administrator permissions.
 
 ### 📘 Truth Table
 
 > **A truth table shows all possible combinations of logical values ​​(True or False) for a given operation.**
-
 > It is essential to understand the behavior of operators such as and, or and not.
 
 | A | B | A and B | A or B | not A |
 |---|---|---------|---------|---------|
-| ✅ | ✅ | ✅ | ❌ |
+| ✅ | ✅ | ✅ | ❌ | ❌ |
 | ✅ | ❌ | ❌ | ✅ | ❌ |
 | ❌ | ✅ | ❌ | ✅ | ❌ |
 | ❌ | ✅ | ❌ | ✅ | ✅ |
@@ -69,7 +65,6 @@ Operators are symbols used to perform operations on variables and values. They a
 - ``not`` -> 🔁 inverts the value
 
 > 📌 The `not` operator only depends on one (unary) value, unlike `and` and `or`, which compare two values.
-
 
 ## 🔹 Identity Operators 🆔
 
@@ -98,10 +93,10 @@ print(a is c) # False → a and c have the same content, but are different objec
 
 | Operator | Description | Example | Result |
 |----------|----------|---------|-----------|
-| `in` | Returns `True` if the value is present | ``'a' in 'Carlos'`` | ``True`` | 
+| `in` | Returns `True` if the value is present | ``'a' in 'Carlos'`` | ``True`` |
 | ``not in`` | Returns ``True`` if the value **not** is present | `5 not in [1,2,3]` | `True` |
 
-### Example 🔎📦 
+### Example 🔎📦
 
 ```python
 fruits = ['apple', 'banana']
@@ -172,7 +167,7 @@ The order Python uses to resolve expressions:
 
 ---
 
-# 🚀 Conclusion
+## 🚀 Conclusion
 
 Python operators are essential tools for performing operations and comparing data efficiently. From this overview, you can perform everything from simple arithmetic calculations to advanced data manipulation with logical, bitwise, and assignment operators.
 
@@ -195,4 +190,4 @@ shopping list.
 
 > Mastering operators gives you full control over how your program makes decisions and transforms data. This is the foundation for creating intelligent and efficient systems!
 
-**[Next file : conditionals](./conditionals.md)**
+**[Next file : conditionals](02_conditionals.md)**

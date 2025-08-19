@@ -9,7 +9,7 @@ Conditional structures allow your code to make decisions based on specific condi
 - Create validations and data processing;
 - Improve the logic and dynamics of the program;
 
-## 🔷 Main types of conditionals:
+## 🔷 Main types of conditionals
 
 ### 🔹 if, elif and else
 
@@ -117,13 +117,13 @@ match color:
 
 ---
 
-# 🚀 Conclusion
+## 🚀 Conclusion
 
 Conditional statements in Python are powerful tools that allow your code to make decisions based on dynamic conditions.
 
 They are essential for controlling the flow of your program, making it flexible and adaptable to different inputs and situations. By understanding how to use if, elif, else, nested conditional statements, the ternary operator, and match case, you will have a robust set of tools to handle any type of conditional situation.
 
-## 📝 Conditional Exercises
+### 📝 Conditional Exercises
 
 1. **Check if the number is positive, negative or zero.**
 Implement a program that reads a number and prints whether it is positive, negative or zero.
@@ -152,7 +152,7 @@ Create a program that reads two numbers and a mathematical operator (+, -, *, /)
 
 Create a program that reads three numbers and prints the largest number among them, using conditional structures.
 
-## 🔧 Tips for practice:
+## 🔧 Tips for practice
 
 - **Validation of user input:**
 Use conditionals to validate data inputs, such as discount calculations based on age or customer category.
@@ -162,4 +162,4 @@ Use match case for systems that involve multiple cases, making your code more or
 
 > Now it's time to put your learning into practice! ✨🐍 Keep exploring, solving challenges and improving your Python skills!
 
-**Next file [loopings](./loopings.md)**
+**Next file [loopings](03_loopings.md)**

@@ -71,7 +71,6 @@ Python is a dynamically typed language. This means that you don't need to explic
 
 ---
 
-
 ## ✅ Combined Practical Example
 
 ```python
@@ -120,7 +119,6 @@ print("Welcome", name)
 ```
 
 > The program will pause and wait for the user to type something.
-
 > Everything that is typed will be stored as a string.
 
 ## ⚡ Type Conversion (Casting)
@@ -149,7 +147,6 @@ These first steps are fundamental in your journey with the Python language. From
 - Develop a dictionary that contains names, ages, situations (studying: true), and more;
 
 > 💾 Tip: save your tests in a file like exercicios.py to build your own study base!
-
 > Each small exercise will make you more confident and prepared for the next modules — such as conditional structures, repetitions, functions, and much more! 💡🐍
 
-**Next Module: [Language Fundamentals](../2.%20fundamentals/readme.md)**
+**Next Module: [Language Fundamentals](../2.%20fundamentals/README.md)**

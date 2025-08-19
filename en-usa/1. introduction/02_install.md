@@ -10,9 +10,9 @@ Before you start programming in Python, you need to make sure you have the langu
 
 ![alt text](/assets/PythonInWindows.png)
 
-1. Download the latest version for Windows *currently version 3.13.3*.
+2. Download the latest version for Windows *currently version 3.13.3*.
 
-1. Run the installer, making sure to check the **"Add python.exe to PATH"** option during installation.
+3. Run the installer, making sure to check the **"Add python.exe to PATH"** option during installation.
 
 ![alt text](/assets/PythonInWindows2.png)
 
@@ -62,7 +62,7 @@ To program in Python, you will need a text editor or an IDE (Integrated Developm
 
 After installing Python and your text editor or IDE, create your first Python script:
 
-### Using an IDE (VS Code, PyCharm, or other):
+### Using an IDE (VS Code, PyCharm, or other)
 
 1. Open your **IDE** (such as VS Code or PyCharm).
 
@@ -116,4 +116,4 @@ Mastering the installation and basic operation of the environment is the first s
 
 > Keep exploring, practicing, and having fun with the process. Programming is a powerful skill, and with dedication, you will go very far!
 
-**Next File: [First Steps](/en-us/1.%20introduction/first_steps.md)**
+**Next File: [First Steps](03_first_steps.md)**

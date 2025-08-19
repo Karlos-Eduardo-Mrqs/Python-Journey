@@ -37,7 +37,6 @@ OOP is one of the most widely used approaches to software development, as it mak
 5. **Magic Methods**
 
 - *__init__*, *__str__*, *__repr__*, etc.
-
 - Operator Overloading
 
 6. **Abstract Classes and Interfaces**

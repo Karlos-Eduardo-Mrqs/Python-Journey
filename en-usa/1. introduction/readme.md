@@ -16,15 +16,15 @@ The idea is to create a solid foundation so that you feel comfortable when advan
 
 ## 📖 Topics covered
 
-### [What is Python 🐍?](/pt-br/1.%20introducao/o_que_e_python.md)
+### What is Python 🐍?
 
 ➔ A clear explanation about the language, its features, applications and historical context.
 
-### [Installation and Configuration ⚒️](/pt-br/1.%20introducao/instalacao.md)
+### Installation and Configuration ⚒️
 
 ➔ Step-by-step guide to installing Python and setting up your development environment.
 
-### [First Steps 🚶🏼‍♀️](/pt-br/1.%20introducao/primeiros_passos.md)
+### First Steps 🚶🏼‍♀️
 
 ➔ Creating the first program in Python and initial concepts such as output commands and comments.
 

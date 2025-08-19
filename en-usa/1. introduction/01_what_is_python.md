@@ -100,4 +100,4 @@ With a clean syntax, wide range of applications, and a vibrant community, Python
 
 ---
 
-**Next File: [Installation and Settings](../1.%20introduction/install.md)**
+**Next File: [Installation and Settings](02_install.md)**

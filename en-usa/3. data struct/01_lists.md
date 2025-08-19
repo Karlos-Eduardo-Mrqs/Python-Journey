@@ -120,7 +120,7 @@ for fruit in fruits:
 
 ---
 
-# ✅ Conclusion
+## ✅ Conclusion
 
 Lists are one of the pillars of Python programming. They allow you to store, organize, and manipulate collections of data in an easy and powerful way.
 
@@ -135,7 +135,7 @@ After this section, you will be able to:
 > ➡️ Mastering lists is essential to continue with more advanced topics such as repetition structures, functions, and even file and data manipulation.
 > Now that you are familiar with this structure, try creating your own programs with lists and see how they can make your life as a Python programmer easier. 💡🐍
 
-## 🧪 Challenge!
+## 🧪 Challenge
 
 Try it yourself:
 
@@ -145,4 +145,4 @@ Try it yourself:
 4. Add 2 new names.
 5. Display the final result with print().
 
-**Next File [Tuples](./tuples.md)**
+**Next File [Tuples](02_tuples.md)**

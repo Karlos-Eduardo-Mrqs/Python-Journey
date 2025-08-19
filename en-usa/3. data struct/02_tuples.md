@@ -45,7 +45,7 @@ As the tuples are **immutable**, trying to modify an element generates an error:
 fruits[1] = "grape"  # TypeError
 ```
 
-**This will generate an error! ** If you need to modify it, convert the tuple into a list:
+**This will generate an error!** If you need to modify it, convert the tuple into a list:
 
 ```python
 list_fruits = list(fruits)
@@ -146,4 +146,4 @@ By the end of this content, you will already be able to:
 
 Now that you understand the **lists** and the **tuples**, let’s continue with the **sets ('set')** and the **dictionaries ('dict')**. Continues to study! 💪🐍
 
-**Next File [Dictionaries](./dictionaries.md)**
+**Next File [Dictionaries](03_dictionaries.md)**
