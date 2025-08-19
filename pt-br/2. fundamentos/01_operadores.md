@@ -177,7 +177,7 @@ Os operadores em Python são ferramentas essenciais para realizar operações e 
 
 - *Operadores Relacionais:* Desenvolva um sistema que compare a idade de duas pessoas e diga quem é mais velho.
 
-- *Operadores Lógicos:* Implemente uma função que verifique se um número está entre dois valores (usando and e or).
+- *Operadores Lógicos:* Verifique se um número está entre dois valores (usando and e or).
 
 - *Operadores de Membros:* Crie um programa que pergunte ao usuário por um item e verifique se esse item está em uma
 lista de compras.
