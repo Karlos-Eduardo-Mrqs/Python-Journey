@@ -67,7 +67,7 @@ Here you will find everything from the first steps in the language to intermedia
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-journey.git
+git clone https://github.com/Karlos-Eduardo-Mrqs/python-journey.git
 ```
 
 2. Explore the folders in order to follow the learning flow.
