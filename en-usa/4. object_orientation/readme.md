@@ -60,4 +60,3 @@ OOP is one of the most widely used approaches to software development, as it mak
 3. Test encapsulation by defining private attributes and controlling access with getters and setters.
 4. Explore special methods to customize the behavior of your classes.
 5. Refactor codes that use loose functions to organize them into classes and methods, seeking reuse.
-

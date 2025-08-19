@@ -147,7 +147,6 @@ Estos primeros pasos son fundamentales en tu experiencia con Python. A partir de
 - Crea un registro simple con nombre, edad y ciudad; - Desarrolla un diccionario que contenga nombres, edades, situaciones (estudiando: verdadero) y más;
 
 > 💾 Consejo: ¡Guarda tus pruebas en un archivo como exercicios.py para crear tu propia base de estudio!
-
 > Cada pequeño ejercicio te dará más confianza y te preparará para los siguientes módulos, como estructuras condicionales, repeticiones, funciones y mucho más. 💡🐍
 
 **Siguiente módulo: [Fundamentos del lenguaje](../2.%20fundamentals/readme.md)**

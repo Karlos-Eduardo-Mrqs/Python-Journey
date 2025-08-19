@@ -202,7 +202,7 @@ Crea una función que determine si un número dado es primo.
 5. **Función de conteo de caracteres**
 Crea una función que cuente el número de ocurrencias de un carácter en una cadena.
 
-## 🔧 Consejos para la práctica:
+## 🔧 Consejos para la práctica
 
 - **Modularización del código:**
 Divida su código en pequeñas funciones, cada una responsable de una tarea específica, para facilitar el mantenimiento y la reutilización.

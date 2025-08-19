@@ -211,7 +211,7 @@ Recorra una lista e imprima sólo los números pares, usando `continue` para ign
 6. **Comprensión de listas**
 Crea una nueva lista con los cuadrados de los números del 1 al 10 usando comprensión de listas.
 
-## 🔧 Consejos para la práctica:
+## 🔧 Consejos para la práctica
 
 - **Utiliza `for` cuando sabes cuántas veces necesitas repetir algo.**
 - **Utilice `while` cuando la repetición depende de una condición.**
@@ -220,4 +220,4 @@ Crea una nueva lista con los cuadrados de los números del 1 al 10 usando compre
 
 > ¡Ahora es tu turno! 🐍 ¡Practica con los ejercicios, prueba variaciones de los ejemplos y continúa evolucionando en el mundo de la programación con Python!
 
-**Seguiente archivo : [funciones](./funciones.md)**
+**Seguiente archivo : [funciones](04_funciones.md)**

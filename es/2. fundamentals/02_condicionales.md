@@ -9,7 +9,7 @@ Las estructuras condicionales permiten que su código tome decisiones basadas en
 - Crear validaciones y procesamiento de datos;
 - Mejorar la lógica y dinámica del programa;
 
-## 🔷 Principales tipos de condicionales:
+## 🔷 Principales tipos de condicionales
 
 ### 🔹 if, elif y else
 
@@ -117,7 +117,7 @@ match color:
 
 ---
 
-# 🚀 Conclusión
+## 🚀 Conclusión
 
 Las declaraciones condicionales en Python son herramientas poderosas que permiten que su código tome decisiones basadas en condiciones dinámicas.
 
@@ -152,7 +152,7 @@ Cree un programa que lea dos números y un operador matemático (+, -, *, /). El
 
 Cree un programa que lea tres números e imprima el número más grande entre ellos, utilizando estructuras condicionales.
 
-## 🔧 Consejos para la práctica:
+## 🔧 Consejos para la práctica
 
 - **Validación de la entrada del usuario:**
 Utilice condicionales para validar las entradas de datos, como los cálculos de descuento basados ​​en la edad o la categoría del cliente.
@@ -162,4 +162,4 @@ Utilice la combinación de mayúsculas y minúsculas en sistemas que involucran 
 
 > ¡Ahora es el momento de poner en práctica lo aprendido! ✨🐍 ¡Sigue explorando, resolviendo desafíos y mejorando tus habilidades en Python!
 
-**Seguiente archivo : [bluces](./bucles.md)**
+**Seguiente archivo : [bluces](03_bucles.md)**

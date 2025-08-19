@@ -147,4 +147,4 @@ Al final de este contenido, ya serás capaz de:
 
 Ahora que ya entiendes bien las **listas** y las **tuplas**, vamos a continuar con los **conjuntos (`set`)** y los **diccionarios (`dict`)**. ¡Sigue estudiando! 💪🐍
 
-**Próximo archivo [Diccionarios](./diccionarios.md)**
+**Próximo archivo [Diccionarios](03_diccionarios.md)**

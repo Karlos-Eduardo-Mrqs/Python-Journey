@@ -5,7 +5,6 @@ Los operadores son símbolos que se utilizan para realizar operaciones con varia
 ## 🔹 Aritmética ➕➖✖️➗
 
 > **Los operadores aritméticos se utilizan para realizar operaciones matemáticas, como sumar, restar, multiplicar y dividir valores.**
-
 > Son útiles en cualquier situación donde sea necesario realizar cálculos, ya sea sumar la edad de los usuarios, calcular descuentos o multiplicar valores en un carrito de compras.
 
 | 🧮 Operador | 📝 Descripción | 💡Ejemplo |
@@ -20,8 +19,7 @@ Los operadores son símbolos que se utilizan para realizar operaciones con varia
 
 ## 🔹 Relacional (Comparación) 🔎
 
-> **Estos operadores comparan dos valores y devuelven un resultado booleano (``Verdadero`` o ``Falso``).** 
-
+> **Estos operadores comparan dos valores y devuelven un resultado booleano (``Verdadero`` o ``Falso``).**
 > Son esenciales en estructuras de decisión, como el ``si``, ya que nos ayudan a saber si algo es mayor que, menor que, igual a o diferente de otro valor.
 
 | 🔁Operador | 🤔 Significado | 💡Ejemplo |
@@ -36,13 +34,11 @@ Los operadores son símbolos que se utilizan para realizar operaciones con varia
 ## 🔹 Lógico 🔗
 
 > **Los operadores lógicos se utilizan para combinar expresiones booleanas.**
-
 > Son muy útiles cuando queremos comprobar múltiples condiciones al mismo tiempo. Por ejemplo: comprobar si un usuario ha iniciado sesión y tiene permisos de administrador.
 
 ### 📘 Tabla de verdad
 
 > **Una tabla de verdad muestra todas las combinaciones posibles de valores lógicos (Verdadero o Falso) para una operación dada.**
-
 > Es esencial comprender el comportamiento de operadores como y, o y no.
 
 | A | B | A y B | A o B | no A |
@@ -58,7 +54,7 @@ Los operadores son símbolos que se utilizan para realizar operaciones con varia
 
 | 🔣Operador | 💬 Ejemplo | 🎯 Resultado |
 |--------------|------------|--------------|
-| `and` | Verdadero y falso `Falso` |
+| `and` | Verdadero y falso |`Falso` |
 | `or` | `Verdadero o Falso` | `Verdadero` |
 | `not` | `no es cierto` | `Falso` |
 
@@ -169,7 +165,7 @@ El orden que utiliza Python para resolver expresiones:
 
 ---
 
-# 🚀 Conclusión
+## 🚀 Conclusión
 
 Los operadores de Python son herramientas esenciales para realizar operaciones y comparar datos eficientemente. Con esta descripción general, podrás realizar desde cálculos aritméticos simples hasta manipulación avanzada de datos con operadores lógicos, bit a bit y de asignación.
 
@@ -191,4 +187,4 @@ Los operadores de Python son herramientas esenciales para realizar operaciones y
 
 > Dominar los operadores te da control total sobre cómo tu programa toma decisiones y transforma datos. ¡Esta es la base para crear sistemas inteligentes y eficientes!
 
-**Seguiente Archivo : [condicionales](./condicionales.md)**
+**Seguiente Archivo : [condicionales](02_condicionales.md)**

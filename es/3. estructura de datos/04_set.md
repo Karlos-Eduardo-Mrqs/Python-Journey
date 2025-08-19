@@ -54,23 +54,23 @@ Ahora que aprendes sobre conjuntos en Python, ¡es hora de probar tu conocimient
 
 ✅ **Desafíos sugeridos:**
 
-1. Crie dois conjuntos representando listas de presencia de dos turmas e calcule: 
+1. Crie dois conjuntos representando listas de presencia de dos turmas e calcule:
 
-* Quem compareceu em ambas as turmas (interseção). 
-* Quem compareceu apenas em uma das turmas (diferencia). 
+* Quem compareceu em ambas as turmas (interseção).
+* Quem compareceu apenas em uma das turmas (diferencia).
 * O total de alunos únicos presentes (união).
 
 2. Utilice `add()` para insertar nuevos todos en las listas de presencia y `remove()` para corregir otras opciones.
 
-3. Experimente con los métodos `issubset()` y `issuperset()`: 
+3. Experimente con los métodos `issubset()` y `issuperset()`:
 
-* Llora un conjunto `turma_A_manha = {"Carlos", "Ana"}` 
-* Llora un conjunto `todos_manha = {"Carlos", "Ana", "Pedro"}` 
-* Verifique que `turma_A_manha` sea un subconjunto de `todos_manha` con `issubset()` 
-* Verifique que `todos_manha` sea un superconjunto de `turma_A_manha` con `issuperset()`
+* Llora un conjunto `turma_A_manha = {"Carlos", "Ana"}`;
+* Llora un conjunto `todos_manha = {"Carlos", "Ana", "Pedro"}`;
+* Verifique que `turma_A_manha` sea un subconjunto de `todos_manha` con `issubset()`;
+* Verifique que `todos_manha` sea un superconjunto de `turma_A_manha` con `issuperset()`;
 
 > Praticar com situações do dia a dia ajuda a entender melhor o uso real dessa estrutura poderosa.
 
 ---
 
-**Next Module [object orientation](../4.%20object_orientation/README.md) or go to [bonus](./bonus.md)**
+**Next Module [object orientation](../4.%20orientacion_objetos/README.md) or go to [bonus](bonus.md)**

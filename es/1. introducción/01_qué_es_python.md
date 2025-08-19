@@ -100,4 +100,4 @@ Con una sintaxis limpia, una amplia gama de aplicaciones y una comunidad vibrant
 
 ---
 
-**Siguiente archivo: [Instalación y configuración](../1.%20introducción/instalación.md)**
+**Siguiente archivo: [Instalación y configuración](02_instalación.md)**

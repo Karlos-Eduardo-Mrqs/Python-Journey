@@ -1,6 +1,6 @@
 # 📦 Módulo 3 — Estructuras de datos en Python
 
-¡Domina las principales formas de almacenar, organizar y manipular información con Python! 
+¡Domina las principales formas de almacenar, organizar y manipular información con Python!
 
 ## 🔹 Sobre esta sección
 
@@ -32,7 +32,7 @@ Una forma elegante y rápida de crear listas, diccionarios o conjuntos con unas 
 
 ---
 
-# ✍️ ¿Qué podrá hacer después de esta sección?
+## ✍️ ¿Qué podrá hacer después de esta sección?
 
 - Utilizar listas, tuplas, diccionarios y conjuntos con confianza.
 - Elegir la mejor estructura de datos para cada situación.
@@ -45,4 +45,4 @@ Una forma elegante y rápida de crear listas, diccionarios o conjuntos con unas 
 - Utiliza `print()` para entender qué almacena cada estructura.
 - Explora los métodos nativos disponibles para cada tipo de dato.
 
-> 🎯 Ahora tienes poderosas herramientas para tratar con datos en Python. ¡Prepárate para escribir código cada vez más organizado e inteligente! 
+> 🎯 Ahora tienes poderosas herramientas para tratar con datos en Python. ¡Prepárate para escribir código cada vez más organizado e inteligente!

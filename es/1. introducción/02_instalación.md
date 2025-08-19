@@ -10,9 +10,9 @@ Antes de empezar a programar en Python, asegúrate de tener el lenguaje instalad
 
 ![alt text](/assets/PythonInWindows.png)
 
-1. Descarga la última versión para Windows *actualmente la 3.13.3*.
+2. Descarga la última versión para Windows *actualmente la 3.13.3*.
 
-1. Ejecuta el instalador, asegurándote de marcar la opción **"Añadir python.exe a la RUTA"** durante la instalación.
+3. Ejecuta el instalador, asegurándote de marcar la opción **"Añadir python.exe a la RUTA"** durante la instalación.
 
 ![texto alternativo](/assets/PythonInWindows2.png)
 
@@ -116,4 +116,4 @@ Dominar la instalación y el funcionamiento básico del entorno es el primer pas
 
 > Sigue explorando, practicando y divirtiéndote con el proceso. ¡Programar es una habilidad poderosa y, con dedicación, llegarás muy lejos!
 
-**Siguiente archivo: [Primeros pasos](./primeros-pasos.md)**
+**Siguiente archivo: [Primeros pasos](03_primeros_pasos.md)**
