@@ -1,14 +1,10 @@
 # 🐍 Python Journey
 
-> **"Your journey from basic to advanced in Python."**
+> **✨ Your journey from basic to advanced in Python.**
 
 ## Available Languages 🌐
 
-- **[US American Version 🇺🇸 *Current*](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/README.md)**
-
-- **[BR Brasilian Version 🇧🇷](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-BR.md)**
-
-- **[ES Spanish Version ](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/blob/main/readmes/README-ES.md)**
+| **[🇧🇷 Portuguese Brazil](README-BR.md)** | **[🇺🇸 English 🌟](README.md)** | **[🇪🇸 Spanish](README-ES.md)** |
 
 ---
 
@@ -20,10 +16,10 @@ Here you will find everything from the first steps in the language to intermedia
 
 **Ideal for:**
 
-- Beginners in programming
-- Computer Science students
-- People in career transition
-- Those looking to strengthen their Python foundation
+- 🟢 Beginners in programming  
+- 🎓 Computer Science students  
+- 🔄 People in career transition  
+- 🐍 Those looking to strengthen their Python foundation  
 
 ---
 
@@ -36,9 +32,7 @@ Here you will find everything from the first steps in the language to intermedia
   Learn how to use operators, conditionals, loops and functions.
 
 - **Data Structures**  
-  Understand how to organize and manipulate information using lists, tuples, dictionaries, sets and comprehensions.
-
-*(Other modules will be added in the future! 🚧)*
+  Understand how to organize and manipulate information using lists, tuples, dictionaries, sets and comprehensions.*(Other modules will be added in the future! 🚧)*
 
 ## 🛠️ Repository Structure
 
@@ -66,8 +60,6 @@ Here you will find everything from the first steps in the language to intermedia
 🔹 README.md
 ```
 
-*(Other topics will be added in the future!)*
-
 ---
 
 ## 🚀 How to Use
@@ -93,7 +85,7 @@ git clone https://github.com/your-username/python-journey.git
 
 ## 📢 Contributing
 
-Contributions are very welcome! 
+Contributions are very welcome!
 If you want to improve examples, correct information or suggest new content:
 
 - Fork the project
@@ -101,6 +93,11 @@ If you want to improve examples, correct information or suggest new content:
 - Commit your changes (`git commit -m 'feat: your message'`)
 - Push (`git push origin feature/FeatureName`)
 - Open a Pull Request
+
+### ⭐Did you like the project?
+
+If you found **Python Journey** useful, please consider giving the repository a **star ⭐**!
+This helps us continue improving the content and creating new modules.
 
 ---
 
