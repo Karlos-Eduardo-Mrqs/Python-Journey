@@ -10,7 +10,7 @@ Ayuda a que tu código sea **más limpio, más corto y, a menudo, más legible**
 # Manera tradicional
 cuadricula = []
 for i in range(5):
-cuadricula.append(i * i)
+    cuadricula.append(i * i)
 
 # Con compreensão de lista
 cuadricula = [i * i for i in range(5)]
@@ -85,4 +85,4 @@ Pero recuerda: **no sacrifiques la legibilidad por la concisión**. Si se vuelve
 
 > 🚀 Dominar las comprensiones hará que tu código Python sea más rápido de escribir y más fácil de leer. ¡Una pequeña inversión para una mayor claridad!
 
-**Siguiente módulo [orientacion_objetos](../4.%20orientacion_objetos/readme.md)**
+**Siguiente módulo [orientacion_objetos](../4.%20orientacion_objetos/README.md)**
