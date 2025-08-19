@@ -84,7 +84,9 @@ Além disso, sua simplicidade atrai profissionais de outras áreas, como biólog
 ## Fontes 📝
 
 - [GeeksForGeeks - History of Python](https://www.geeksforgeeks.org/history-of-python/)
+
 - [DIO - A História do Python](https://www.dio.me/articles/a-historia-do-python-JCO7UB)
+
 - [Documentação Oficial do Python](https://www.python.org/doc/essays/foreword/)
 
 ---
@@ -99,4 +101,4 @@ Com uma sintaxe limpa, ampla gama de aplicações e uma comunidade vibrante, Pyt
 
 ---
 
-**Próximo Arquivo: [Instalação e Configurações](/pt-br/1.%20introducao/instalacao.md)**
+**Próximo Arquivo: [Instalação e Configurações](02_instalacao.md)**

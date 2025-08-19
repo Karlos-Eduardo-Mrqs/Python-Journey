@@ -87,7 +87,6 @@ perfil = {"nome": "Ana", "idade": 25}  # dict
 
 Vamos aprender a interagir com o usuário por meio da entrada (``input``) e saída (``print``) de dados.
 
-
 ---
 
 ## 🔹 Saída de Dados: `print()`
@@ -119,8 +118,7 @@ nome = input("Digite seu nome: ")
 print("Seja bem-vindo(a),", nome)
 ```
 
-> O programa irá pausar e esperar o usuário digitar algo. 
-
+> O programa irá pausar e esperar o usuário digitar algo.
 > Tudo o que for digitado será armazenado como string.
 
 ## ⚡ Conversão de Tipos (Casting)
@@ -146,10 +144,9 @@ Esses primeiros passos são fundamentais na sua jornada com a linguagem Python. 
 
 - Criar um programa que calcula a média de duas notas;
 - Fazer um cadastro simples com nome, idade e cidade;
-- Desenvolva um dicionário que possuam nome, idade, situação(estudando: true), e entre outros ; 
+- Desenvolva um dicionário que possuam nome, idade, situação(estudando: true), e entre outros ;
 
 > 💾 Dica: salve seus testes em um arquivo como exercicios.py para montar sua própria base de estudos!
-
 > Cada pequeno exercício vai te deixar mais confiante e preparado para os próximos módulos — como estruturas condicionais, repetições, funções e muito mais! 💡🐍
 
-**Próximo Módulo: [Fundamentos da Linguagem](../2.%20fundamentos/readme.md)**
+**Próximo Módulo: [Fundamentos da Linguagem](../2.%20fundamentos/README.md)**

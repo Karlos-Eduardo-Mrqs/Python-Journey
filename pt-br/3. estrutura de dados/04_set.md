@@ -73,4 +73,4 @@ Agora que você aprendeu sobre conjuntos em Python, é hora de testar seu conhec
 
 ---
 
-**Próximo Módulo [orientação de objetos](../4.%20orientacao_objetos/readme.md) ou vá para o [bônus](./bonus.md)**
+**Próximo Módulo [orientação de objetos](../4.%20orientacao_objetos/README.md) ou vá para o [bônus](bonus.md)**

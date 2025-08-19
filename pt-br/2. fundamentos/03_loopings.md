@@ -220,4 +220,4 @@ Crie uma nova lista com os quadrados dos números de 1 a 10 usando list comprehe
 
 > Agora é a sua vez! 🐍 Pratique com os exercícios, experimente variações dos exemplos e continue evoluindo no universo da programação com Python!
 
-**Próximo arquivo : [funções](./funcoes.md)**
+**Próximo arquivo : [funções](04_funcoes.md)**

@@ -5,7 +5,6 @@ Operadores são símbolos usados para realizar operações em variáveis e valor
 ## 🔹 Aritméticos ➕➖✖️➗
 
 > **Os operadores aritméticos são usados para realizar operações matemáticas, como somar, subtrair, multiplicar e dividir valores.**
-
 > Eles são úteis em qualquer situação onde cálculos precisam ser feitos — seja para somar a idade de usuários, calcular descontos ou multiplicar valores em um carrinho de compras.
 
 | 🧮 Operador | 📝 Descrição | 💡 Exemplo |
@@ -20,8 +19,7 @@ Operadores são símbolos usados para realizar operações em variáveis e valor
 
 ## 🔹 Relacionais 🔎
 
-> **Esses operadores comparam dois valores e retornam um resultado booleano (``True`` ou ``False``).** 
-
+> **Esses operadores comparam dois valores e retornam um resultado booleano (``True`` ou ``False``).**
 > São essenciais em estruturas de decisão, como ``if``, pois nos ajudam a saber se algo é maior, menor, igual ou diferente de outro valor.
 
 | 🔁 Operador | 🤔 Significado | 💡 Exemplo |
@@ -36,13 +34,11 @@ Operadores são símbolos usados para realizar operações em variáveis e valor
 ## 🔹 Lógicos 🔗
 
 > **Os operadores lógicos são utilizados para combinar expressões booleanas.**
-
 > São muito úteis quando queremos verificar múltiplas condições ao mesmo tempo. Por exemplo: verificar se um usuário está logado e tem permissões de administrador.
 
 ### 📘 Tabela Verdade
 
 > **Uma tabela verdade mostra todas as combinações possíveis de valores lógicos (True ou False) para uma determinada operação.**
-
 > Ela é fundamental para entender o comportamento de operadores como and, or e not.
 
 | A | B | A and B | A or B | not A |
@@ -100,7 +96,7 @@ print(a is c)     # False → a e c têm o mesmo conteúdo, mas são objetos dif
 | `in`     | Retorna `True` se o valor estiver presente | `'a' in 'Carlos'` | `True` |
 | `not in` | Retorna `True` se o valor **não** estiver presente | `5 not in [1,2,3]` | `True` |
 
-### Exemplo 🔎📦 
+### Exemplo 🔎📦
 
 ```python
 frutas = ['maçã', 'banana']
@@ -171,7 +167,7 @@ A ordem que o Python usa para resolver expressões:
 
 ---
 
-# 🚀 Conclusão
+## 🚀 Conclusão
 
 Os operadores em Python são ferramentas essenciais para realizar operações e comparar dados de forma eficiente. A partir dessa visão geral, você pode realizar desde simples cálculos aritméticos até manipulação avançada de dados com operadores lógicos, bit a bit e de atribuição.
 
@@ -194,4 +190,4 @@ lista de compras.
 
 > Dominar os operadores te dá controle total sobre como seu programa toma decisões e transforma dados. Essa é a base para criar sistemas inteligentes e eficientes!
 
-**Próximo arquivo : [condicionais](./condicionais.md)**
+**Próximo arquivo : [condicionais](02_condicionais.md)**

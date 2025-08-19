@@ -70,4 +70,4 @@ Agora que você entendeu como funcionam os dicionários em Python, é hora de pr
 
 > Praticar é a melhor forma de consolidar o aprendizado! Teste diferentes combinações, explore os métodos e abuse do print() para observar os resultados.
 
-**Próximo arquivo [Set](./set.md)**
+**Próximo arquivo [Set](04_set.md)**

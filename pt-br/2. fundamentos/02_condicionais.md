@@ -162,4 +162,4 @@ Utilize o match case para sistemas que envolvem múltiplos casos, tornando seu c
 
 > Agora é hora de colocar o aprendizado em prática! ✨🐍 Continue a explorar, resolver desafios e aprimorar suas habilidades em Python !
 
-**Próximo arquivo : [loopings](./loopings.md)**
+**Próximo arquivo : [loopings](03_loopings.md)**

@@ -120,7 +120,7 @@ for fruta in frutas:
 
 ---
 
-# ✅ Conclusão
+## ✅ Conclusão
 
 As listas são um dos pilares da programação em Python. Elas permitem armazenar, organizar e manipular coleções de dados de forma fácil e poderosa.
 
@@ -145,4 +145,4 @@ Tente fazer sozinho:
 4. Adicione 2 novos nomes.
 5. Mostre o resultado final com print().
 
-**Próximo arquivo [Tuplas](./tuplas.md)**
+**Próximo arquivo [Tuplas](02_tuplas)**

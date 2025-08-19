@@ -62,7 +62,7 @@ Para programar em Python, você precisará de um editor de texto ou uma IDE (Amb
 
 Após a instalação do Python e do editor de texto ou IDE, crie seu primeiro script Python:
 
-### Usando uma IDE (VS Code, PyCharm ou outra):
+### Usando uma IDE (VS Code, PyCharm ou outra)
 
 1. Abra sua **IDE** (como o VS Code ou o PyCharm).
 
@@ -115,4 +115,4 @@ Dominar a instalação e o funcionamento básico do ambiente é o primeiro passo
 
 > Continue explorando, praticando e se divertindo com o processo. A programação é uma habilidade poderosa e, com dedicação, você irá muito longe !
 
-**Próximo Arquivo : [Primeiros Passos](/pt-br/1.%20introducao/primeiros_passos.md)**
+**Próximo Arquivo : [Primeiros Passos](03_primeiros_passos.md)**
