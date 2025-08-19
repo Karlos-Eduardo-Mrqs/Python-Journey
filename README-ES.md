@@ -70,7 +70,7 @@ Comprende cómo organizar y manipular información mediante listas, tuplas, dicc
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/your-username/python-journey.git
+git clone https://github.com/Karlos-Eduardo-Mrqs/python-journey.git
 ```
 
 2. Explora las carpetas para seguir el flujo de aprendizaje.
