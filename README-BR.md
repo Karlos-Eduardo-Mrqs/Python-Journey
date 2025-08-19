@@ -67,7 +67,7 @@ Entenda como organizar e manipular informações usando listas, tuplas, dicioná
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-nome-de-usuário/python-journey.git
+git clone https://github.com/Karlos-Eduardo-Mrqs/python-journey.git
 ```
 
 2. Explore as pastas para seguir o fluxo de aprendizado.
