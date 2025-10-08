@@ -1,61 +1,66 @@
 # 📦 Módulo 4 — Orientação a Objetos em Python
 
-Domine os conceitos fundamentais da programação orientada a objetos (POO) para escrever códigos mais organizados, reutilizáveis ​​e simples de manter!
+Chegou a hora de dar um grande passo na sua jornada com Python! 🚀  
+
+Até aqui, você programou de forma **estruturada e procedural** (com funções e estruturas de dados).  
+Agora, vamos explorar a **Programação Orientada a Objetos (POO)** — um dos paradigmas mais poderosos e utilizados no desenvolvimento de software moderno.  
+
+A POO permite **organizar o código de forma mais próxima ao mundo real**, agrupando dados e comportamentos em entidades chamadas **objetos**.  
+Isso torna os programas mais **claros, reutilizáveis e fáceis de manter**.  
+
+---
 
 ## 🔹 Sobre esta seção
 
-Neste módulo, você aprenderá os princípios básicos de orientação a objetos com Python, incluindo definição de classes, criação de objetos, encapsulamento, herança e polimorfismo.
+Neste módulo, você aprenderá os princípios fundamentais da Orientação a Objetos em Python:  
+desde a criação das suas primeiras **classes** até conceitos mais avançados como **herança, polimorfismo e métodos mágicos**.  
 
-A POO é uma das abordagens mais utilizadas para desenvolvimento de software, pois facilita a modelagem do mundo real dentro do código.
+---
 
 ## 📖 Tópicos envolvidos
 
-1. **Classes e Objetos**
+1. [**Classes e Objetos**](aula_01/01_classes_objetos.md)  
+   - O que são classes e objetos  
+   - Como definir uma classe em Python  
+   - Criar instâncias (objetos)  
+   - Atributos e métodos  
 
-- O que são classes e objetos
-- Como definir uma classe em Python
-- Criar instâncias (objetos)
-- Atributos e métodos
+2. [**Encapsulamento**](aula_02/02_encapsulamento.md)  
+   - Atributos públicos e privados  
+   - Métodos *getters* e *setters*  
+   - Uso do `_` e `__` para indicar encapsulamento  
 
-2. **Encapsulamento**
+3. [**Herança**](aula_03/03_heranca.md)  
+   - Conceito de herança e subclasses  
+   - Reutilização de código  
+   - Sobrescrita de métodos (*override*)  
 
-- Atributos públicos e privados
-- Métodos getters e setters
-- Uso do *_* e *__* para indicar encapsulamento
+4. [**Polimorfismo**](aula_04/04_polimorfismo.md)  
+   - Métodos com o mesmo nome em classes diferentes  
+   - Uso de polimorfismo para maior flexibilidade  
 
-3. **Herança**
+5. [**Classes Abstratas e Interfaces**](aula_05/05_abstracao.md)
+   - Introdução às classes abstratas com `abc`  
+   - Definição de contratos com métodos abstratos  
 
-- Conceito de herança e subclasses
-- Reutilização de código
-- Sobrescrita de métodos (override)
+6. [**Métodos Mágicos**](aula_06/06_metodos_magicos.md)
+   - `__init__`, `__str__`, `__repr__`, etc.  
+   - Sobrecarga de operadores
 
-4. **Polimorfismo**
-
-- Métodos com o mesmo nome em classes diferentes
-- Uso de polimorfismo para flexibilidade
-
-5. **Métodos Mágicos**
-
-- *__init__*, *__str__*, *__repr__*, etc.
-- Sobrecarga de operadores
-
-6. **Classes Abstratas e Interfaces**
-
-- Introdução às classes abstratas com abc
-- Definição de contratos com métodos abstratos
+---
 
 ## ✍️ O que você poderá fazer após esta seção
 
-1. Crie suas próprias classes e objetos em Python
-2. Aplicar os princípios de encapsulamento para proteger dados
-3. Utilização herança para criar construtores de classes reutilizáveis
-4. Compreender e aplicar o polimorfismo em seus projetos
-5. Usar métodos especiais para tornar suas classes mais poderosas e Pythonicas
+1. Criar suas próprias classes e objetos em Python.  
 
-## 🚀 Dicas para aproveitar melhor
+2. Proteger e organizar melhor seus dados usando encapsulamento.  
 
-1. Comece a criar classes simples com atributos e métodos básicos para ganhar familiaridade.
-2. Utilize exemplos do seu dia a dia para representar conceitos como herança (ex: Animal → Cachorro).
-3. Teste o encapsulamento definindo atributos privados e controlando acesso com getters e setters.
-4. Explore os métodos especiais para personalizar o comportamento de suas aulas.
-5. Refatorar códigos que utilizam funções soltas para organizar em classes e métodos, buscando reutilização.
+3. Reaproveitar código com herança e construir hierarquias de classes.  
+
+4. Aplicar polimorfismo para aumentar a flexibilidade dos programas.  
+
+5. Personalizar o comportamento das suas classes com métodos especiais.  
+
+---
+
+> 💡 **Prepare-se para transformar sua forma de programar:** Da simplicidade dos scripts para a flexibilidade dos objetos!

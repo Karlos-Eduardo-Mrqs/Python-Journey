@@ -16,15 +16,15 @@ A ideia é criar uma base sólida para que você se sinta confortável ao avanç
 
 ## 📖 Tópicos abordados
 
-### O que é Python 🐍?
+### [O que é Python 🐍?](aula_01/01_O_que_e_python.md)
 
 ➔ Uma explicação clara sobre a linguagem, suas características, aplicações e contexto histórico.
 
-### Instalação e Configuração ⚒️
+### [Instalação e Configuração ⚒️](aula_02/02_instalacao.md)
 
 ➔ Guia passo a passo para instalar o Python e configurar seu ambiente de desenvolvimento.
 
-### Primeiros Passos 🚶🏼‍♀️
+### [Primeiros Passos 🚶🏼‍♀️](aula_03/03_primeiros_passos.md)
 
 ➔ Criação do primeiro programa em Python e conceitos iniciais como comandos de saída e comentários.
 
@@ -46,4 +46,4 @@ A ideia é criar uma base sólida para que você se sinta confortável ao avanç
 
 ---
 
-## 🎯 Agora sim, sua jornada começa de verdade!
+**🎯 Agora sim, sua jornada começa de verdade!**

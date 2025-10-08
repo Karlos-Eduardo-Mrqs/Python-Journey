@@ -32,47 +32,40 @@ Primeiro contato com a linguagem, instalação e seus primeiros scripts.
 Aprenda a usar operadores, condicionais, laços e funções.
 
 - **Estruturas de Dados**
-Entenda como organizar e manipular informações usando listas, tuplas, dicionários, conjuntos e compreensões. *(Outros módulos serão adicionados no futuro! 🚧)*
+Entenda como organizar e manipular informações usando listas, tuplas, dicionários, conjuntos e compreensões.
 
-## 🛠️ Estrutura do Repositório
+- **Programação Orientada a Objetos**
+Classes, objetos, encapsulamento, herança, polimorfismo, abstração e métodos mágicos. *(Outros módulos serão adicionados no futuro! 🚧)*
 
-```bash
-🔹 01-introdução/
-   🔹 o-que-e-python.md
-   🔹 instalacao-e-configuracao.md
-   🔹 primeiros-passos.md
-   🔹 README.md
+## 🗂️ Estrutura do Repositório
 
-🔹 02-fundamentos/
-   🔹 operadores.md
-   🔹 condicionais.md
-   🔹 loops.md
-   🔹 funções.md
-   🔹 README.md
+O projeto está organizado em módulos para facilitar seu aprendizado progressivo(*destacando os arquivos principais*):
 
-🔹 03-estrutura_de_dados/
-   🔹 listas.md
-   🔹 tuplas.md
-   🔹 dicionários.md
-   🔹 conjunto.md
-   🔹 README.md
-
-🔹 README.md
+```cmd
+📁 01-introdução       # Conceitos básicos e primeiros passos
+📁 02-fundamentos      # Operadores, condicionais, loops e funções
+📁 03-estrutura_de_dados # Listas, tuplas, dicionários e conjuntos
+📁 04-orientacao_objetos # Conceitos básicos sobre POO
+📄 README.md           # Visão geral do projeto em inglês
+📄 README-BR.md        # Visão geral do projeto em português
+📄 README-ES.md        # Visão geral do projeto em espanhol
 ```
+
+> Cada pasta contém arquivos Markdown com conteúdos teóricos e exemplos práticos, permitindo seguir a jornada do básico ao avançado de forma clara e estruturada.
 
 ---
 
-## 🚀 Como usar
+## 🚀 Como usar ?
 
-1. Clone o repositório:
+- Clone o repositório:
 
 ```bash
 git clone https://github.com/Karlos-Eduardo-Mrqs/python-journey.git
 ```
 
-2. Explore as pastas para seguir o fluxo de aprendizado.
+- Explore as pastas para seguir o fluxo de aprendizado.
 
-3. Pratique os exemplos e tente criar suas próprias variações!
+- Pratique os exemplos e tente criar suas próprias variações!
 
 ---
 
@@ -106,3 +99,5 @@ Isso ajuda a continuar melhorando o conteúdo e criando novos módulos.
 Distribuído sob a Licença MIT.
 
 Veja `LICENÇA` para mais informações.
+
+**Pronto para começar sua jornada com Python? 🚀 Vamos lá!**

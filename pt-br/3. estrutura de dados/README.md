@@ -10,29 +10,29 @@ Vamos aprender a usar listas, tuplas, dicionários, conjuntos e até compreensõ
 
 ## 📖 Tópicos abordados
 
-## Listas (`list`) 🟩  
+## [Listas (`list`) 🟩](aula_01/01_listas.md)  
 
 Como criar, acessar e modificar listas. Métodos úteis e boas práticas para manipular coleções ordenadas.
 
-## Tuplas (`tuple`) 🟪  
+## [Tuplas (`tuple`) 🟪](aula_02/02_tuplas.md)
 
 O que são tuplas, quando usá-las e por que sua imutabilidade pode ser uma vantagem.
 
-## Dicionários (`dict`) 🟨  
+## [Dicionários (`dict`) 🟨](aula_03/03_dicionarios.md)  
 
 Estruturas baseadas em chave e valor. Perfeitos para representar informações com significado.
 
-## Conjuntos (`set`) 🟥  
+## [Conjuntos (`set`) 🟥](aula_04/04_set.md)
 
 Coleções não ordenadas e sem duplicatas. Ideais para operações como união, interseção e diferença.
 
-## Compreensões de Listas 🌀  
+## [Compreensões de Listas 🌀](aula_05/aula_05_compreensao_listas.md)
 
 Uma forma elegante e rápida de criar listas, dicionários ou conjuntos com poucas linhas de código.
 
 ---
 
-# ✍️ O que você será capaz de fazer após esta seção
+## ✍️ O que você será capaz de fazer após esta seção
 
 - Usar listas, tuplas, dicionários e conjuntos com confiança.
 - Escolher a melhor estrutura de dados para cada situação.
