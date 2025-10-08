@@ -49,7 +49,6 @@ O projeto está organizado em módulos para facilitar seu aprendizado progressiv
 - [📄 README-BR.md](README-BR.md)
 - [📄 README-ES.md](README-ES.md)
 
-
 > Cada pasta contém arquivos Markdown com conteúdos teóricos e exemplos práticos, permitindo seguir a jornada do básico ao avançado de forma clara e estruturada.
 
 ---
