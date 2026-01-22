@@ -42,10 +42,10 @@ Classes, objetos, encapsulamento, herança, polimorfismo, abstração e métodos
 
 O projeto está organizado em módulos para facilitar seu aprendizado progressivo(*destacando os arquivos principais*):
 
-- [📁 01-introdução](./pt-br/1.%20introducao/README.md)
-- [📁 02-fundamentos](./pt-br/2.%20fundamentos/)
-- [📁 03-estrutura_de_dados](./pt-br/3.%20estrutura%20de%20dados)
-- [📁 04-orientacao_objetos](./pt-br/4.%20orientacao_objetos)
+- [📁 01-introdução](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/tree/main/pt-br/1.%20introducao)
+- [📁 02-fundamentos](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/tree/main/pt-br/2.%20fundamentos)
+- [📁 03-estrutura_de_dados](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/tree/main/pt-br/3.%20estrutura%20de%20dados)
+- [📁 04-orientacao_objetos](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey/tree/main/pt-br/4.%20orientacao_objetos)
 - [📄 README.md](README.md)
 - [📄 README-BR.md](README-BR.md)
 - [📄 README-ES.md](README-ES.md)
