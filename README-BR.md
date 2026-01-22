@@ -43,9 +43,9 @@ Classes, objetos, encapsulamento, herança, polimorfismo, abstração e métodos
 O projeto está organizado em módulos para facilitar seu aprendizado progressivo(*destacando os arquivos principais*):
 
 - [📁 01-introdução](./pt-br/1.%20introducao/README.md)
-- [📁 02-fundamentos](./pt-br/2.%20fundamentos/README.md)
-- [📁 03-estrutura_de_dados](./pt-br/3.%20estrutura%20de%20dados/README.md)
-- [📁 04-orientacao_objetos](./pt-br/4.%20orientacao_objetos/README.md)
+- [📁 02-fundamentos](./pt-br/2.%20fundamentos/)
+- [📁 03-estrutura_de_dados](./pt-br/3.%20estrutura%20de%20dados)
+- [📁 04-orientacao_objetos](./pt-br/4.%20orientacao_objetos)
 - [📄 README.md](README.md)
 - [📄 README-BR.md](README-BR.md)
 - [📄 README-ES.md](README-ES.md)
